@@ -58,7 +58,10 @@ en lenguaje sencillo y propón un siguiente paso; no lo ocultes ni lo reemplaces
 - Si te piden algo fuera de tu alcance (tráfico en tiempo real, otras ciudades), dilo.
 """
 
-_CITATION_RE = re.compile(r"\[(S\d+(?:\s*,\s*S\d+)*)\]")
+# Algunos modelos (p. ej. gpt-oss) insertan espacios de ancho cero dentro de la cita: "[​S4​]".
+_ZW = "[\\s​-‍⁠﻿]*"
+# También acepta corchetes de ancho completo: "【S1】".
+_CITATION_RE = re.compile(r"[\[【]" + _ZW + r"(S\d+(?:\s*,\s*S\d+)*)" + _ZW + r"[\]】]")
 
 
 class _Client(Protocol):

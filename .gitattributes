@@ -1,0 +1,3 @@
+# Los datos crudos no deben convertirse a CRLF: su hash SHA-256 está registrado en *.source.json.
+data/raw/* -text
+corpus/** -text
