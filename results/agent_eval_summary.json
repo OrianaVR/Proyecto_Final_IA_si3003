@@ -1,0 +1,26 @@
+{
+  "total_questions": 12,
+  "auto_graded": {
+    "correct": 6,
+    "of": 9
+  },
+  "pending_manual_review": 3,
+  "criteria": {
+    "tools_ok": {
+      "passed": 9,
+      "applicable": 10
+    },
+    "citation_ok": {
+      "passed": 3,
+      "applicable": 3
+    },
+    "numeric_ok": {
+      "passed": 3,
+      "applicable": 6
+    },
+    "tool_error_ok": {
+      "passed": 1,
+      "applicable": 1
+    }
+  }
+}
