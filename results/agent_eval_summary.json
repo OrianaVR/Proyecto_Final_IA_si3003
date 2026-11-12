@@ -4,7 +4,7 @@
     "correct": 6,
     "of": 9
   },
-  "pending_manual_review": 3,
+  "pending_manual_review": 0,
   "criteria": {
     "tools_ok": {
       "passed": 9,
@@ -22,5 +22,10 @@
       "passed": 1,
       "applicable": 1
     }
+  },
+  "manual_reviewed_ok": {
+    "passed": 3,
+    "of": 3,
+    "reviewed_by": "Ana (lectura de answer frente a manual_criterion)"
   }
 }
