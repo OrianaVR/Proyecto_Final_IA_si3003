@@ -3,3 +3,6 @@ beautifulsoup4==4.15.0
 pypdf==6.21.4
 soupsieve==4.1
 typing-extensions==4.16.0
+# Bloque 3 (agente y RAG). El resto del agente usa solo la biblioteca estándar.
+numpy>=1.26,<3
+sentence-transformers>=3.0,<6  # embeddings locales; opcional: sin él se usa el respaldo 'hashing'

@@ -34,7 +34,7 @@ El costo de cada arista es su distancia geométrica en metros. El proyecto no in
 | Estadísticas descriptivas y de conectividad | Implementado |
 | Pruebas automatizadas del módulo de datos | Implementado |
 | A* y Dijkstra con evaluación comparativa | Pendiente de integración |
-| Agente LLM con RAG y herramientas | Pendiente de integración |
+| Agente LLM con RAG y herramientas | Implementado (evaluación con LLM real: ver `docs/03_agente.md`) |
 | Dashboard, visualizaciones y chat | Pendiente de integración |
 
 La versión actual se ejecuta mediante comandos de consola. Las instrucciones del agente y del dashboard se incorporarán cuando esos componentes estén disponibles.
@@ -141,6 +141,44 @@ python -m scripts.describe_data
 Calcula componentes débilmente conexas, nodos sin salidas y cantidad de nodos alcanzables desde los orígenes de prueba.
 
 Los resultados se guardan en `results/eda.json`.
+
+## Agente LLM con RAG y herramientas
+
+El agente (`src/agente/agent.py`) combina un modelo de lenguaje con cuatro herramientas reales y un índice
+documental local sobre los documentos del Metro. Interfaz: `ask(message, history)` devuelve
+`answer`, `sources` (título, URL, página y fragmento) y `tool_trace` (más un campo `error`).
+
+### Configuración
+
+1. Copia `.env.example` a `.env` y completa `LLM_API_KEY` y `LLM_MODEL` (y `LLM_BASE_URL` si no usas OpenAI).
+   El proveedor debe ser compatible con la API de chat completions y soportar llamadas a herramientas.
+2. Construye el índice documental (la primera vez descarga el modelo de embeddings):
+
+```bash
+python -m scripts.agente.build_index
+```
+
+El backend usado queda registrado en `data/index/index.json`. Con `--backend hashing` no se descarga nada,
+pero la recuperación es léxica (no semántica): decláralo si lo usas.
+
+### Probar sin interfaz
+
+```bash
+python -m scripts.agente.demo_tools      # herramientas y recuperación, sin LLM ni claves
+python -m scripts.agente.ask_cli         # conversación con el agente (necesita .env)
+python -m scripts.agente.run_agent_eval  # 12 preguntas fijas -> results/agent_eval.csv
+```
+
+### Herramientas del agente
+
+| Herramienta | Qué hace |
+|---|---|
+| `plan_route` | Ruta de menor distancia con A* o Dijkstra (Bloque 2) |
+| `get_route_metrics` | Compara A* y Dijkstra sobre el mismo par |
+| `find_nodes` | Convierte nombres de calle o intersecciones en ids de nodo |
+| `search_documents` | Recupera fragmentos del corpus del Metro con su fuente |
+
+Más detalles de diseño y evaluación en `docs/03_agente.md`.
 
 ## Pruebas automatizadas
 
