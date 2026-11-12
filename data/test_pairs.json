@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pair_01",
+    "origin": "10311382890",
+    "destination": "10735878410"
+  },
+  {
+    "id": "pair_02",
+    "origin": "10735878419",
+    "destination": "11448912496"
+  },
+  {
+    "id": "pair_03",
+    "origin": "13116149839",
+    "destination": "13952114587"
+  },
+  {
+    "id": "pair_04",
+    "origin": "13957920179",
+    "destination": "330610901"
+  },
+  {
+    "id": "pair_05",
+    "origin": "358028386",
+    "destination": "368795576"
+  },
+  {
+    "id": "pair_06",
+    "origin": "368836818",
+    "destination": "5919356166"
+  },
+  {
+    "id": "pair_07",
+    "origin": "8644394443",
+    "destination": "8644401605"
+  },
+  {
+    "id": "pair_08",
+    "origin": "8660827870",
+    "destination": "8660827900"
+  },
+  {
+    "id": "pair_09",
+    "origin": "8665635449",
+    "destination": "8813914222"
+  },
+  {
+    "id": "pair_10",
+    "origin": "9378006404",
+    "destination": "9378128543"
+  }
+]

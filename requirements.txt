@@ -1,0 +1,5 @@
+# Versiones verificadas para regenerar el corpus. El núcleo de datos solo usa stdlib.
+beautifulsoup4==4.15.0
+pypdf==6.21.4
+soupsieve==4.1
+typing-extensions==4.16.0

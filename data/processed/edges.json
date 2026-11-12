@@ -1,0 +1,7724 @@
+[
+  {
+    "id": "1016048349:0:f",
+    "origin": "9371905712",
+    "destination": "9371905711",
+    "distance_m": 21.76407094525057,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:0:r",
+    "origin": "9371905711",
+    "destination": "9371905712",
+    "distance_m": 21.76407094525057,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:1:f",
+    "origin": "9371905711",
+    "destination": "9685156936",
+    "distance_m": 15.322469861508587,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:1:r",
+    "origin": "9685156936",
+    "destination": "9371905711",
+    "distance_m": 15.322469861508587,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:2:f",
+    "origin": "9685156936",
+    "destination": "9371905710",
+    "distance_m": 20.931864301889263,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:2:r",
+    "origin": "9371905710",
+    "destination": "9685156936",
+    "distance_m": 20.931864301889263,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:3:f",
+    "origin": "9371905710",
+    "destination": "9685156935",
+    "distance_m": 6.774212873033828,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:3:r",
+    "origin": "9685156935",
+    "destination": "9371905710",
+    "distance_m": 6.774212873033828,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:4:f",
+    "origin": "9685156935",
+    "destination": "9371905709",
+    "distance_m": 5.3830723071140625,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:4:r",
+    "origin": "9371905709",
+    "destination": "9685156935",
+    "distance_m": 5.3830723071140625,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:5:f",
+    "origin": "9371905709",
+    "destination": "9371905708",
+    "distance_m": 8.056420679393511,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:5:r",
+    "origin": "9371905708",
+    "destination": "9371905709",
+    "distance_m": 8.056420679393511,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:6:f",
+    "origin": "9371905708",
+    "destination": "9685156933",
+    "distance_m": 5.975295294444108,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:6:r",
+    "origin": "9685156933",
+    "destination": "9371905708",
+    "distance_m": 5.975295294444108,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:7:f",
+    "origin": "9685156933",
+    "destination": "9685156934",
+    "distance_m": 7.480223953370459,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:7:r",
+    "origin": "9685156934",
+    "destination": "9685156933",
+    "distance_m": 7.480223953370459,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:8:f",
+    "origin": "9685156934",
+    "destination": "9371905707",
+    "distance_m": 14.101347810944192,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048349:8:r",
+    "origin": "9371905707",
+    "destination": "9685156934",
+    "distance_m": 14.101347810944192,
+    "osm_way_id": "1016048349",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016048350:0:f",
+    "origin": "316077514",
+    "destination": "10790551100",
+    "distance_m": 79.17083027367143,
+    "osm_way_id": "1016048350",
+    "name": "Calle 51",
+    "highway": "residential"
+  },
+  {
+    "id": "1016048350:1:f",
+    "origin": "10790551100",
+    "destination": "316077531",
+    "distance_m": 4.139442028015454,
+    "osm_way_id": "1016048350",
+    "name": "Calle 51",
+    "highway": "residential"
+  },
+  {
+    "id": "1016153039:0:f",
+    "origin": "316077509",
+    "destination": "13952114588",
+    "distance_m": 7.396120915929219,
+    "osm_way_id": "1016153039",
+    "name": "Calle 51",
+    "highway": "residential"
+  },
+  {
+    "id": "1016153039:1:f",
+    "origin": "13952114588",
+    "destination": "9943116555",
+    "distance_m": 34.98400454430041,
+    "osm_way_id": "1016153039",
+    "name": "Calle 51",
+    "highway": "residential"
+  },
+  {
+    "id": "1016153039:2:f",
+    "origin": "9943116555",
+    "destination": "316077514",
+    "distance_m": 74.32568931227446,
+    "osm_way_id": "1016153039",
+    "name": "Calle 51",
+    "highway": "residential"
+  },
+  {
+    "id": "1016153040:0:f",
+    "origin": "8813901316",
+    "destination": "9372682968",
+    "distance_m": 14.25984481512175,
+    "osm_way_id": "1016153040",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016153040:0:r",
+    "origin": "9372682968",
+    "destination": "8813901316",
+    "distance_m": 14.25984481512175,
+    "osm_way_id": "1016153040",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016153040:1:f",
+    "origin": "9372682968",
+    "destination": "9372682967",
+    "distance_m": 3.942158661310833,
+    "osm_way_id": "1016153040",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016153040:1:r",
+    "origin": "9372682967",
+    "destination": "9372682968",
+    "distance_m": 3.942158661310833,
+    "osm_way_id": "1016153040",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016153040:2:f",
+    "origin": "9372682967",
+    "destination": "9372682966",
+    "distance_m": 51.77374301326069,
+    "osm_way_id": "1016153040",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016153040:2:r",
+    "origin": "9372682966",
+    "destination": "9372682967",
+    "distance_m": 51.77374301326069,
+    "osm_way_id": "1016153040",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016159702:0:f",
+    "origin": "368795591",
+    "destination": "368804674",
+    "distance_m": 14.840793423249053,
+    "osm_way_id": "1016159702",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "1016159702:1:f",
+    "origin": "368804674",
+    "destination": "10701834577",
+    "distance_m": 19.923696413131303,
+    "osm_way_id": "1016159702",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "1016159702:2:f",
+    "origin": "10701834577",
+    "destination": "368804676",
+    "distance_m": 9.60570035397115,
+    "osm_way_id": "1016159702",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "1016159704:0:f",
+    "origin": "368804676",
+    "destination": "10701834586",
+    "distance_m": 3.871296980233961,
+    "osm_way_id": "1016159704",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "1016159704:1:f",
+    "origin": "10701834586",
+    "destination": "13952114584",
+    "distance_m": 114.6447969577114,
+    "osm_way_id": "1016159704",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "1016159704:2:f",
+    "origin": "13952114584",
+    "destination": "368794464",
+    "distance_m": 7.082043871376164,
+    "osm_way_id": "1016159704",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "1016159705:0:f",
+    "origin": "5548481855",
+    "destination": "368804676",
+    "distance_m": 12.066187389544973,
+    "osm_way_id": "1016159705",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "1016163306:0:f",
+    "origin": "9372758569",
+    "destination": "9372758567",
+    "distance_m": 9.213983204494172,
+    "osm_way_id": "1016163306",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016163306:0:r",
+    "origin": "9372758567",
+    "destination": "9372758569",
+    "distance_m": 9.213983204494172,
+    "osm_way_id": "1016163306",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016163306:1:f",
+    "origin": "9372758567",
+    "destination": "9372758568",
+    "distance_m": 28.954480102593187,
+    "osm_way_id": "1016163306",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016163306:1:r",
+    "origin": "9372758568",
+    "destination": "9372758567",
+    "distance_m": 28.954480102593187,
+    "osm_way_id": "1016163306",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016163307:0:f",
+    "origin": "368789070",
+    "destination": "12319141941",
+    "distance_m": 6.145930149944243,
+    "osm_way_id": "1016163307",
+    "name": "Carrera 54",
+    "highway": "residential"
+  },
+  {
+    "id": "1016174372:0:f",
+    "origin": "9372899632",
+    "destination": "9685512420",
+    "distance_m": 5.493535699759318,
+    "osm_way_id": "1016174372",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174372:0:r",
+    "origin": "9685512420",
+    "destination": "9372899632",
+    "distance_m": 5.493535699759318,
+    "osm_way_id": "1016174372",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174373:0:f",
+    "origin": "9372899624",
+    "destination": "9372899630",
+    "distance_m": 35.82171437600753,
+    "osm_way_id": "1016174373",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174373:1:f",
+    "origin": "9372899630",
+    "destination": "9372899629",
+    "distance_m": 2.6244415690742233,
+    "osm_way_id": "1016174373",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174373:2:f",
+    "origin": "9372899629",
+    "destination": "9372899628",
+    "distance_m": 6.898933883654378,
+    "osm_way_id": "1016174373",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174373:3:f",
+    "origin": "9372899628",
+    "destination": "9372899627",
+    "distance_m": 1.8730896281792833,
+    "osm_way_id": "1016174373",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174373:4:f",
+    "origin": "9372899627",
+    "destination": "9372921609",
+    "distance_m": 25.324433577405514,
+    "osm_way_id": "1016174373",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174374:0:f",
+    "origin": "9372899636",
+    "destination": "10311387538",
+    "distance_m": 8.97108280630724,
+    "osm_way_id": "1016174374",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174374:0:r",
+    "origin": "10311387538",
+    "destination": "9372899636",
+    "distance_m": 8.97108280630724,
+    "osm_way_id": "1016174374",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174374:1:f",
+    "origin": "10311387538",
+    "destination": "9372899633",
+    "distance_m": 2.6502803081488393,
+    "osm_way_id": "1016174374",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174374:1:r",
+    "origin": "9372899633",
+    "destination": "10311387538",
+    "distance_m": 2.6502803081488393,
+    "osm_way_id": "1016174374",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:0:f",
+    "origin": "9685156943",
+    "destination": "13951994738",
+    "distance_m": 2.9131106687133173,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:0:r",
+    "origin": "13951994738",
+    "destination": "9685156943",
+    "distance_m": 2.9131106687133173,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:10:f",
+    "origin": "9685156940",
+    "destination": "9685156943",
+    "distance_m": 20.50613440001909,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:10:r",
+    "origin": "9685156943",
+    "destination": "9685156940",
+    "distance_m": 20.50613440001909,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:1:f",
+    "origin": "13951994738",
+    "destination": "9685156942",
+    "distance_m": 4.075827832103348,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:1:r",
+    "origin": "9685156942",
+    "destination": "13951994738",
+    "distance_m": 4.075827832103348,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:2:f",
+    "origin": "9685156942",
+    "destination": "9685156941",
+    "distance_m": 1.7667088790477692,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:2:r",
+    "origin": "9685156941",
+    "destination": "9685156942",
+    "distance_m": 1.7667088790477692,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:3:f",
+    "origin": "9685156941",
+    "destination": "9372899637",
+    "distance_m": 4.199791200888625,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:3:r",
+    "origin": "9372899637",
+    "destination": "9685156941",
+    "distance_m": 4.199791200888625,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:4:f",
+    "origin": "9372899637",
+    "destination": "9685156945",
+    "distance_m": 14.638023419893774,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:4:r",
+    "origin": "9685156945",
+    "destination": "9372899637",
+    "distance_m": 14.638023419893774,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:5:f",
+    "origin": "9685156945",
+    "destination": "9685156937",
+    "distance_m": 1.2374955340209473,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:5:r",
+    "origin": "9685156937",
+    "destination": "9685156945",
+    "distance_m": 1.2374955340209473,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:6:f",
+    "origin": "9685156937",
+    "destination": "9685156938",
+    "distance_m": 1.2109283801242026,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:6:r",
+    "origin": "9685156938",
+    "destination": "9685156937",
+    "distance_m": 1.2109283801242026,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:7:f",
+    "origin": "9685156938",
+    "destination": "9685156944",
+    "distance_m": 6.041270512110036,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:7:r",
+    "origin": "9685156944",
+    "destination": "9685156938",
+    "distance_m": 6.041270512110036,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:8:f",
+    "origin": "9685156944",
+    "destination": "9685156939",
+    "distance_m": 1.0395551257774964,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:8:r",
+    "origin": "9685156939",
+    "destination": "9685156944",
+    "distance_m": 1.0395551257774964,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:9:f",
+    "origin": "9685156939",
+    "destination": "9685156940",
+    "distance_m": 1.6160712246502387,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174375:9:r",
+    "origin": "9685156940",
+    "destination": "9685156939",
+    "distance_m": 1.6160712246502387,
+    "osm_way_id": "1016174375",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174376:0:f",
+    "origin": "9372899641",
+    "destination": "10311387535",
+    "distance_m": 3.3646896858125963,
+    "osm_way_id": "1016174376",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174376:0:r",
+    "origin": "10311387535",
+    "destination": "9372899641",
+    "distance_m": 3.3646896858125963,
+    "osm_way_id": "1016174376",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174376:1:f",
+    "origin": "10311387535",
+    "destination": "9372899639",
+    "distance_m": 7.489658683085371,
+    "osm_way_id": "1016174376",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174376:1:r",
+    "origin": "9372899639",
+    "destination": "10311387535",
+    "distance_m": 7.489658683085371,
+    "osm_way_id": "1016174376",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174376:2:f",
+    "origin": "9372899639",
+    "destination": "9372899638",
+    "distance_m": 47.922613721075216,
+    "osm_way_id": "1016174376",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174376:2:r",
+    "origin": "9372899638",
+    "destination": "9372899639",
+    "distance_m": 47.922613721075216,
+    "osm_way_id": "1016174376",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174376:3:f",
+    "origin": "9372899638",
+    "destination": "9372899640",
+    "distance_m": 26.804280488465274,
+    "osm_way_id": "1016174376",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174376:3:r",
+    "origin": "9372899640",
+    "destination": "9372899638",
+    "distance_m": 26.804280488465274,
+    "osm_way_id": "1016174376",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174377:0:f",
+    "origin": "6591740759",
+    "destination": "9372899642",
+    "distance_m": 83.61765737973703,
+    "osm_way_id": "1016174377",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016174377:0:r",
+    "origin": "9372899642",
+    "destination": "6591740759",
+    "distance_m": 83.61765737973703,
+    "osm_way_id": "1016174377",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016175901:0:f",
+    "origin": "9372921609",
+    "destination": "9372921608",
+    "distance_m": 70.43597383280884,
+    "osm_way_id": "1016175901",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016175901:0:r",
+    "origin": "9372921608",
+    "destination": "9372921609",
+    "distance_m": 70.43597383280884,
+    "osm_way_id": "1016175901",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016522169:0:f",
+    "origin": "9375858912",
+    "destination": "9942951084",
+    "distance_m": 27.569268173247522,
+    "osm_way_id": "1016522169",
+    "name": "Carrera 51A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016522169:1:f",
+    "origin": "9942951084",
+    "destination": "9942951080",
+    "distance_m": 43.122927233067216,
+    "osm_way_id": "1016522169",
+    "name": "Carrera 51A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016522169:2:f",
+    "origin": "9942951080",
+    "destination": "9375858911",
+    "distance_m": 1.610079873280782,
+    "osm_way_id": "1016522169",
+    "name": "Carrera 51A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016522169:3:f",
+    "origin": "9375858911",
+    "destination": "9942951081",
+    "distance_m": 1.6322489008173378,
+    "osm_way_id": "1016522169",
+    "name": "Carrera 51A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016522169:4:f",
+    "origin": "9942951081",
+    "destination": "9375858910",
+    "distance_m": 1.3421590325089816,
+    "osm_way_id": "1016522169",
+    "name": "Carrera 51A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016522169:5:f",
+    "origin": "9375858910",
+    "destination": "9375858909",
+    "distance_m": 1.562626269919679,
+    "osm_way_id": "1016522169",
+    "name": "Carrera 51A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016522169:6:f",
+    "origin": "9375858909",
+    "destination": "9942951070",
+    "distance_m": 14.185579252316769,
+    "osm_way_id": "1016522169",
+    "name": "Carrera 51A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016522169:7:f",
+    "origin": "9942951070",
+    "destination": "9378220715",
+    "distance_m": 8.521060214553923,
+    "osm_way_id": "1016522169",
+    "name": "Carrera 51A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016522169:8:f",
+    "origin": "9378220715",
+    "destination": "9375858908",
+    "distance_m": 5.8034800854818,
+    "osm_way_id": "1016522169",
+    "name": "Carrera 51A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016758252:0:f",
+    "origin": "9378006412",
+    "destination": "9378006397",
+    "distance_m": 8.80817152357211,
+    "osm_way_id": "1016758252",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758253:0:f",
+    "origin": "9378006398",
+    "destination": "5546085754",
+    "distance_m": 9.71037597351878,
+    "osm_way_id": "1016758253",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758254:0:f",
+    "origin": "9378006401",
+    "destination": "9378006415",
+    "distance_m": 4.139723264749595,
+    "osm_way_id": "1016758254",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758255:0:f",
+    "origin": "9378006401",
+    "destination": "9378006400",
+    "distance_m": 3.5686234336308567,
+    "osm_way_id": "1016758255",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758255:0:r",
+    "origin": "9378006400",
+    "destination": "9378006401",
+    "distance_m": 3.5686234336308567,
+    "osm_way_id": "1016758255",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758255:1:f",
+    "origin": "9378006400",
+    "destination": "9378006399",
+    "distance_m": 3.5298975358512834,
+    "osm_way_id": "1016758255",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758255:1:r",
+    "origin": "9378006399",
+    "destination": "9378006400",
+    "distance_m": 3.5298975358512834,
+    "osm_way_id": "1016758255",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758255:2:f",
+    "origin": "9378006399",
+    "destination": "9378006411",
+    "distance_m": 3.3549772726099145,
+    "osm_way_id": "1016758255",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758255:2:r",
+    "origin": "9378006411",
+    "destination": "9378006399",
+    "distance_m": 3.3549772726099145,
+    "osm_way_id": "1016758255",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758255:3:f",
+    "origin": "9378006411",
+    "destination": "9378006402",
+    "distance_m": 10.438114865761216,
+    "osm_way_id": "1016758255",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758255:3:r",
+    "origin": "9378006402",
+    "destination": "9378006411",
+    "distance_m": 10.438114865761216,
+    "osm_way_id": "1016758255",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:0:f",
+    "origin": "9378006411",
+    "destination": "9378006410",
+    "distance_m": 48.30714252639956,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:0:r",
+    "origin": "9378006410",
+    "destination": "9378006411",
+    "distance_m": 48.30714252639956,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:1:f",
+    "origin": "9378006410",
+    "destination": "9378006409",
+    "distance_m": 3.3770921673123806,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:1:r",
+    "origin": "9378006409",
+    "destination": "9378006410",
+    "distance_m": 3.3770921673123806,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:2:f",
+    "origin": "9378006409",
+    "destination": "9378006408",
+    "distance_m": 2.674107632608881,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:2:r",
+    "origin": "9378006408",
+    "destination": "9378006409",
+    "distance_m": 2.674107632608881,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:3:f",
+    "origin": "9378006408",
+    "destination": "9378006407",
+    "distance_m": 5.011437673231039,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:3:r",
+    "origin": "9378006407",
+    "destination": "9378006408",
+    "distance_m": 5.011437673231039,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:4:f",
+    "origin": "9378006407",
+    "destination": "9378006406",
+    "distance_m": 2.112030423475553,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:4:r",
+    "origin": "9378006406",
+    "destination": "9378006407",
+    "distance_m": 2.112030423475553,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:5:f",
+    "origin": "9378006406",
+    "destination": "9378006405",
+    "distance_m": 2.211745839110832,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:5:r",
+    "origin": "9378006405",
+    "destination": "9378006406",
+    "distance_m": 2.211745839110832,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:6:f",
+    "origin": "9378006405",
+    "destination": "9378006404",
+    "distance_m": 44.73897130519494,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:6:r",
+    "origin": "9378006404",
+    "destination": "9378006405",
+    "distance_m": 44.73897130519494,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:7:f",
+    "origin": "9378006404",
+    "destination": "9378006403",
+    "distance_m": 3.8684620041889777,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:7:r",
+    "origin": "9378006403",
+    "destination": "9378006404",
+    "distance_m": 3.8684620041889777,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:8:f",
+    "origin": "9378006403",
+    "destination": "9378006402",
+    "distance_m": 1.725422998943961,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758256:8:r",
+    "origin": "9378006402",
+    "destination": "9378006403",
+    "distance_m": 1.725422998943961,
+    "osm_way_id": "1016758256",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758257:0:f",
+    "origin": "9378006397",
+    "destination": "9378006413",
+    "distance_m": 11.886903900658908,
+    "osm_way_id": "1016758257",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758257:1:f",
+    "origin": "9378006413",
+    "destination": "9378006401",
+    "distance_m": 4.98770365524734,
+    "osm_way_id": "1016758257",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016758258:0:f",
+    "origin": "9378006415",
+    "destination": "9378006398",
+    "distance_m": 11.363188335904889,
+    "osm_way_id": "1016758258",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016765613:0:f",
+    "origin": "5546085751",
+    "destination": "9378057686",
+    "distance_m": 60.34837023174107,
+    "osm_way_id": "1016765613",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016765613:0:r",
+    "origin": "9378057686",
+    "destination": "5546085751",
+    "distance_m": 60.34837023174107,
+    "osm_way_id": "1016765613",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1016770450:0:f",
+    "origin": "9378128543",
+    "destination": "11153251129",
+    "distance_m": 2.8804337078046545,
+    "osm_way_id": "1016770450",
+    "name": "Calle 49A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016770450:0:r",
+    "origin": "11153251129",
+    "destination": "9378128543",
+    "distance_m": 2.8804337078046545,
+    "osm_way_id": "1016770450",
+    "name": "Calle 49A",
+    "highway": "residential"
+  },
+  {
+    "id": "1016832987:2:f",
+    "origin": "13957920178",
+    "destination": "316076833",
+    "distance_m": 9.95019967797754,
+    "osm_way_id": "1016832987",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "1018712459:0:f",
+    "origin": "9372682966",
+    "destination": "9685156947",
+    "distance_m": 13.447792754776303,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:0:r",
+    "origin": "9685156947",
+    "destination": "9372682966",
+    "distance_m": 13.447792754776303,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:1:f",
+    "origin": "9685156947",
+    "destination": "9685156946",
+    "distance_m": 2.221590282001759,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:1:r",
+    "origin": "9685156946",
+    "destination": "9685156947",
+    "distance_m": 2.221590282001759,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:2:f",
+    "origin": "9685156946",
+    "destination": "9396059975",
+    "distance_m": 3.2074791753041008,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:2:r",
+    "origin": "9396059975",
+    "destination": "9685156946",
+    "distance_m": 3.2074791753041008,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:3:f",
+    "origin": "9396059975",
+    "destination": "9396059974",
+    "distance_m": 50.97561706032758,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:3:r",
+    "origin": "9396059974",
+    "destination": "9396059975",
+    "distance_m": 50.97561706032758,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:4:f",
+    "origin": "9396059974",
+    "destination": "9684692394",
+    "distance_m": 1.7003460426500971,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:4:r",
+    "origin": "9684692394",
+    "destination": "9396059974",
+    "distance_m": 1.7003460426500971,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:5:f",
+    "origin": "9684692394",
+    "destination": "9396059973",
+    "distance_m": 1.5301346215311133,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:5:r",
+    "origin": "9396059973",
+    "destination": "9684692394",
+    "distance_m": 1.5301346215311133,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:6:f",
+    "origin": "9396059973",
+    "destination": "9372682968",
+    "distance_m": 16.728757431578273,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1018712459:6:r",
+    "origin": "9372682968",
+    "destination": "9396059973",
+    "distance_m": 16.728757431578273,
+    "osm_way_id": "1018712459",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1020107123:0:f",
+    "origin": "368794464",
+    "destination": "13952114583",
+    "distance_m": 9.02738499832269,
+    "osm_way_id": "1020107123",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "1020107123:1:f",
+    "origin": "13952114583",
+    "destination": "9372758569",
+    "distance_m": 26.52544306492262,
+    "osm_way_id": "1020107123",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "1020107123:2:f",
+    "origin": "9372758569",
+    "destination": "13952114581",
+    "distance_m": 47.25710786002369,
+    "osm_way_id": "1020107123",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "1020107123:3:f",
+    "origin": "13952114581",
+    "destination": "368792094",
+    "distance_m": 8.333713696382286,
+    "osm_way_id": "1020107123",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "1020112804:0:f",
+    "origin": "8660827880",
+    "destination": "368783626",
+    "distance_m": 12.792901421009942,
+    "osm_way_id": "1020112804",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020112804:1:f",
+    "origin": "368783626",
+    "destination": "5919476756",
+    "distance_m": 10.539732806031388,
+    "osm_way_id": "1020112804",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020112804:2:f",
+    "origin": "5919476756",
+    "destination": "368783630",
+    "distance_m": 9.573388626590738,
+    "osm_way_id": "1020112804",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020112804:3:f",
+    "origin": "368783630",
+    "destination": "5919476757",
+    "distance_m": 20.520568921202546,
+    "osm_way_id": "1020112804",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020112804:4:f",
+    "origin": "5919476757",
+    "destination": "368783637",
+    "distance_m": 16.97030380702108,
+    "osm_way_id": "1020112804",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020112804:5:f",
+    "origin": "368783637",
+    "destination": "368783641",
+    "distance_m": 16.805146027090963,
+    "osm_way_id": "1020112804",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020112804:6:f",
+    "origin": "368783641",
+    "destination": "368777344",
+    "distance_m": 13.495954706754478,
+    "osm_way_id": "1020112804",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020119514:0:f",
+    "origin": "5914715605",
+    "destination": "8660831045",
+    "distance_m": 4.857534632920202,
+    "osm_way_id": "1020119514",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020119514:1:f",
+    "origin": "8660831045",
+    "destination": "358106856",
+    "distance_m": 6.875246575040019,
+    "osm_way_id": "1020119514",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020119514:2:f",
+    "origin": "358106856",
+    "destination": "358106857",
+    "distance_m": 9.596453186852395,
+    "osm_way_id": "1020119514",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020119514:3:f",
+    "origin": "358106857",
+    "destination": "8660827904",
+    "distance_m": 14.498610356617741,
+    "osm_way_id": "1020119514",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020119514:4:f",
+    "origin": "8660827904",
+    "destination": "13929683986",
+    "distance_m": 6.6900469744784585,
+    "osm_way_id": "1020119514",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020119514:5:f",
+    "origin": "13929683986",
+    "destination": "358106859",
+    "distance_m": 3.903427163412389,
+    "osm_way_id": "1020119514",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020358494:0:f",
+    "origin": "316077477",
+    "destination": "1142182326",
+    "distance_m": 62.46325073480651,
+    "osm_way_id": "1020358494",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020358494:1:f",
+    "origin": "1142182326",
+    "destination": "316077486",
+    "distance_m": 49.728599063724204,
+    "osm_way_id": "1020358494",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020358494:2:f",
+    "origin": "316077486",
+    "destination": "8644394515",
+    "distance_m": 36.29086641562139,
+    "osm_way_id": "1020358494",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020358494:3:f",
+    "origin": "8644394515",
+    "destination": "9942951082",
+    "distance_m": 20.114622831143524,
+    "osm_way_id": "1020358494",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020358494:4:f",
+    "origin": "9942951082",
+    "destination": "13948112306",
+    "distance_m": 6.652370442240375,
+    "osm_way_id": "1020358494",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020360777:0:f",
+    "origin": "368822189",
+    "destination": "309857486",
+    "distance_m": 9.804598958444075,
+    "osm_way_id": "1020360777",
+    "name": "",
+    "highway": "secondary_link"
+  },
+  {
+    "id": "1020360777:0:r",
+    "origin": "309857486",
+    "destination": "368822189",
+    "distance_m": 9.804598958444075,
+    "osm_way_id": "1020360777",
+    "name": "",
+    "highway": "secondary_link"
+  },
+  {
+    "id": "1020360778:0:f",
+    "origin": "9410962671",
+    "destination": "368769318",
+    "distance_m": 30.545285236438474,
+    "osm_way_id": "1020360778",
+    "name": "Avenida Colombia",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020360778:1:f",
+    "origin": "368769318",
+    "destination": "309857486",
+    "distance_m": 38.65624663223334,
+    "osm_way_id": "1020360778",
+    "name": "Avenida Colombia",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627261:0:f",
+    "origin": "5545773727",
+    "destination": "4351304294",
+    "distance_m": 13.56298927138152,
+    "osm_way_id": "1020627261",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627261:1:f",
+    "origin": "4351304294",
+    "destination": "4351304293",
+    "distance_m": 8.584170449578465,
+    "osm_way_id": "1020627261",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627261:2:f",
+    "origin": "4351304293",
+    "destination": "8644401613",
+    "distance_m": 6.781233825240565,
+    "osm_way_id": "1020627261",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627261:3:f",
+    "origin": "8644401613",
+    "destination": "8644401614",
+    "distance_m": 7.331171958402017,
+    "osm_way_id": "1020627261",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627261:4:f",
+    "origin": "8644401614",
+    "destination": "330611694",
+    "distance_m": 6.110374909760042,
+    "osm_way_id": "1020627261",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627262:0:f",
+    "origin": "330611694",
+    "destination": "8644401603",
+    "distance_m": 3.2215162646542237,
+    "osm_way_id": "1020627262",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627262:1:f",
+    "origin": "8644401603",
+    "destination": "358008853",
+    "distance_m": 9.427979785561659,
+    "osm_way_id": "1020627262",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627262:2:f",
+    "origin": "358008853",
+    "destination": "8644401601",
+    "distance_m": 12.137577242854245,
+    "osm_way_id": "1020627262",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627262:3:f",
+    "origin": "8644401601",
+    "destination": "8644401602",
+    "distance_m": 6.639745908197606,
+    "osm_way_id": "1020627262",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020627262:4:f",
+    "origin": "8644401602",
+    "destination": "309857490",
+    "distance_m": 6.464522786727582,
+    "osm_way_id": "1020627262",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020679548:0:f",
+    "origin": "316076840",
+    "destination": "10735826585",
+    "distance_m": 56.64994665118242,
+    "osm_way_id": "1020679548",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020679548:1:f",
+    "origin": "10735826585",
+    "destination": "315063961",
+    "distance_m": 10.597857644092558,
+    "osm_way_id": "1020679548",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020679549:0:f",
+    "origin": "316076832",
+    "destination": "316076840",
+    "distance_m": 47.57632685597541,
+    "osm_way_id": "1020679549",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1020975658:0:f",
+    "origin": "316077475",
+    "destination": "13958371450",
+    "distance_m": 114.68698617153066,
+    "osm_way_id": "1020975658",
+    "name": "Calle 48",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020975658:1:f",
+    "origin": "13958371450",
+    "destination": "316076855",
+    "distance_m": 11.73035239168513,
+    "osm_way_id": "1020975658",
+    "name": "Calle 48",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020975658:2:f",
+    "origin": "316076855",
+    "destination": "13958371448",
+    "distance_m": 6.253145312787768,
+    "osm_way_id": "1020975658",
+    "name": "Calle 48",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020975658:3:f",
+    "origin": "13958371448",
+    "destination": "13957920181",
+    "distance_m": 75.33337979497563,
+    "osm_way_id": "1020975658",
+    "name": "Calle 48",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020975658:4:f",
+    "origin": "13957920181",
+    "destination": "316076844",
+    "distance_m": 13.76216649651845,
+    "osm_way_id": "1020975658",
+    "name": "Calle 48",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1020984009:1:f",
+    "origin": "10724313609",
+    "destination": "316076832",
+    "distance_m": 23.454350714595336,
+    "osm_way_id": "1020984009",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1053899801:0:f",
+    "origin": "9372921609",
+    "destination": "9372899626",
+    "distance_m": 7.227164654607533,
+    "osm_way_id": "1053899801",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053899801:1:f",
+    "origin": "9372899626",
+    "destination": "9685156931",
+    "distance_m": 2.632345507882231,
+    "osm_way_id": "1053899801",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053899801:2:f",
+    "origin": "9685156931",
+    "destination": "9372899625",
+    "distance_m": 2.5295218386184803,
+    "osm_way_id": "1053899801",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053899801:3:f",
+    "origin": "9372899625",
+    "destination": "9372899624",
+    "distance_m": 6.228416379612298,
+    "osm_way_id": "1053899801",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053899802:0:f",
+    "origin": "9372899638",
+    "destination": "13951994741",
+    "distance_m": 10.947917266134649,
+    "osm_way_id": "1053899802",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053899802:0:r",
+    "origin": "13951994741",
+    "destination": "9372899638",
+    "distance_m": 10.947917266134649,
+    "osm_way_id": "1053899802",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053899802:1:f",
+    "origin": "13951994741",
+    "destination": "9685156943",
+    "distance_m": 14.941216220902142,
+    "osm_way_id": "1053899802",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053899802:1:r",
+    "origin": "9685156943",
+    "destination": "13951994741",
+    "distance_m": 14.941216220902142,
+    "osm_way_id": "1053899802",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053942764:0:f",
+    "origin": "8660827873",
+    "destination": "8660827890",
+    "distance_m": 9.027757203381368,
+    "osm_way_id": "1053942764",
+    "name": "",
+    "highway": "residential"
+  },
+  {
+    "id": "1053942764:0:r",
+    "origin": "8660827890",
+    "destination": "8660827873",
+    "distance_m": 9.027757203381368,
+    "osm_way_id": "1053942764",
+    "name": "",
+    "highway": "residential"
+  },
+  {
+    "id": "1053942765:0:f",
+    "origin": "9685512420",
+    "destination": "9372899631",
+    "distance_m": 8.819680254817367,
+    "osm_way_id": "1053942765",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053942765:0:r",
+    "origin": "9372899631",
+    "destination": "9685512420",
+    "distance_m": 8.819680254817367,
+    "osm_way_id": "1053942765",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053942766:0:f",
+    "origin": "9372899631",
+    "destination": "9372899624",
+    "distance_m": 8.735775084173435,
+    "osm_way_id": "1053942766",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1053942766:0:r",
+    "origin": "9372899624",
+    "destination": "9372899631",
+    "distance_m": 8.735775084173435,
+    "osm_way_id": "1053942766",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:0:f",
+    "origin": "9687264866",
+    "destination": "9687264863",
+    "distance_m": 8.841674849318428,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:0:r",
+    "origin": "9687264863",
+    "destination": "9687264866",
+    "distance_m": 8.841674849318428,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:1:f",
+    "origin": "9687264863",
+    "destination": "9687264865",
+    "distance_m": 6.196291624035777,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:1:r",
+    "origin": "9687264865",
+    "destination": "9687264863",
+    "distance_m": 6.196291624035777,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:2:f",
+    "origin": "9687264865",
+    "destination": "9687264864",
+    "distance_m": 13.747534263496235,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:2:r",
+    "origin": "9687264864",
+    "destination": "9687264865",
+    "distance_m": 13.747534263496235,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:3:f",
+    "origin": "9687264864",
+    "destination": "10701834590",
+    "distance_m": 25.70213914427781,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:3:r",
+    "origin": "10701834590",
+    "destination": "9687264864",
+    "distance_m": 25.70213914427781,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:4:f",
+    "origin": "10701834590",
+    "destination": "368795569",
+    "distance_m": 3.6036525280520726,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054129418:4:r",
+    "origin": "368795569",
+    "destination": "10701834590",
+    "distance_m": 3.6036525280520726,
+    "osm_way_id": "1054129418",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054133384:0:f",
+    "origin": "9687310832",
+    "destination": "9687310835",
+    "distance_m": 8.3076601705193,
+    "osm_way_id": "1054133384",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054133384:0:r",
+    "origin": "9687310835",
+    "destination": "9687310832",
+    "distance_m": 8.3076601705193,
+    "osm_way_id": "1054133384",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054133385:0:f",
+    "origin": "9687310836",
+    "destination": "9687310835",
+    "distance_m": 34.71705850209024,
+    "osm_way_id": "1054133385",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054133385:0:r",
+    "origin": "9687310835",
+    "destination": "9687310836",
+    "distance_m": 34.71705850209024,
+    "osm_way_id": "1054133385",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054133385:1:f",
+    "origin": "9687310835",
+    "destination": "9687310833",
+    "distance_m": 8.868770178153783,
+    "osm_way_id": "1054133385",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054133385:1:r",
+    "origin": "9687310833",
+    "destination": "9687310835",
+    "distance_m": 8.868770178153783,
+    "osm_way_id": "1054133385",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054133385:2:f",
+    "origin": "9687310833",
+    "destination": "9687310834",
+    "distance_m": 9.868417216536226,
+    "osm_way_id": "1054133385",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1054133385:2:r",
+    "origin": "9687310834",
+    "destination": "9687310833",
+    "distance_m": 9.868417216536226,
+    "osm_way_id": "1054133385",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1060965255:0:f",
+    "origin": "368836818",
+    "destination": "368827370",
+    "distance_m": 69.92093075603282,
+    "osm_way_id": "1060965255",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "1064031443:0:f",
+    "origin": "368769316",
+    "destination": "10311387545",
+    "distance_m": 76.33308567776514,
+    "osm_way_id": "1064031443",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "1064031443:1:f",
+    "origin": "10311387545",
+    "destination": "368769318",
+    "distance_m": 6.625890753033608,
+    "osm_way_id": "1064031443",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "1085127110:0:f",
+    "origin": "9942951084",
+    "destination": "9942951083",
+    "distance_m": 4.0695649939528975,
+    "osm_way_id": "1085127110",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1085127110:0:r",
+    "origin": "9942951083",
+    "destination": "9942951084",
+    "distance_m": 4.0695649939528975,
+    "osm_way_id": "1085127110",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1085143984:0:f",
+    "origin": "13951994745",
+    "destination": "13951994743",
+    "distance_m": 44.02953542578455,
+    "osm_way_id": "1085143984",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1085143984:0:r",
+    "origin": "13951994743",
+    "destination": "13951994745",
+    "distance_m": 44.02953542578455,
+    "osm_way_id": "1085143984",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1085143984:1:f",
+    "origin": "13951994743",
+    "destination": "13951994744",
+    "distance_m": 19.52358150407206,
+    "osm_way_id": "1085143984",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1085143984:1:r",
+    "origin": "13951994744",
+    "destination": "13951994743",
+    "distance_m": 19.52358150407206,
+    "osm_way_id": "1085143984",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1085143984:2:f",
+    "origin": "13951994744",
+    "destination": "9943116554",
+    "distance_m": 7.095173253350873,
+    "osm_way_id": "1085143984",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1085143984:2:r",
+    "origin": "9943116554",
+    "destination": "13951994744",
+    "distance_m": 7.095173253350873,
+    "osm_way_id": "1085143984",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1154371245:0:f",
+    "origin": "8644401633",
+    "destination": "9854564267",
+    "distance_m": 2.7230741153953826,
+    "osm_way_id": "1154371245",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "1154371246:0:f",
+    "origin": "338509398",
+    "destination": "11153266025",
+    "distance_m": 3.170725427481713,
+    "osm_way_id": "1154371246",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "1154371246:1:f",
+    "origin": "11153266025",
+    "destination": "9378128543",
+    "distance_m": 57.83882246753283,
+    "osm_way_id": "1154371246",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "1154371246:2:f",
+    "origin": "9378128543",
+    "destination": "10735878453",
+    "distance_m": 30.734263337105784,
+    "osm_way_id": "1154371246",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "1154371246:3:f",
+    "origin": "10735878453",
+    "destination": "8644401633",
+    "distance_m": 2.9936959309530957,
+    "osm_way_id": "1154371246",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "1154371247:0:f",
+    "origin": "10735878446",
+    "destination": "8644401633",
+    "distance_m": 2.004796561303593,
+    "osm_way_id": "1154371247",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "1160892911:0:f",
+    "origin": "365303076",
+    "destination": "5478741172",
+    "distance_m": 16.07546606888494,
+    "osm_way_id": "1160892911",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1160892912:0:f",
+    "origin": "365303076",
+    "destination": "10797357326",
+    "distance_m": 5.174344984754,
+    "osm_way_id": "1160892912",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "1160892912:1:f",
+    "origin": "10797357326",
+    "destination": "10797357314",
+    "distance_m": 75.40696670236258,
+    "osm_way_id": "1160892912",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "1160892912:2:f",
+    "origin": "10797357314",
+    "destination": "365303077",
+    "distance_m": 6.069747607144803,
+    "osm_way_id": "1160892912",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "1160892913:0:f",
+    "origin": "10797357322",
+    "destination": "365303076",
+    "distance_m": 4.384052523151024,
+    "osm_way_id": "1160892913",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "1206471791:0:f",
+    "origin": "330611923",
+    "destination": "8644401628",
+    "distance_m": 5.923835822142926,
+    "osm_way_id": "1206471791",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1206471791:1:f",
+    "origin": "8644401628",
+    "destination": "8644401627",
+    "distance_m": 6.88953390608074,
+    "osm_way_id": "1206471791",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1206471791:2:f",
+    "origin": "8644401627",
+    "destination": "10311382895",
+    "distance_m": 1.8727146750364074,
+    "osm_way_id": "1206471791",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1206471791:3:f",
+    "origin": "10311382895",
+    "destination": "8644401629",
+    "distance_m": 4.785701182679956,
+    "osm_way_id": "1206471791",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1206471791:4:f",
+    "origin": "8644401629",
+    "destination": "8660836179",
+    "distance_m": 42.19949512574805,
+    "osm_way_id": "1206471791",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1206471791:5:f",
+    "origin": "8660836179",
+    "destination": "5031447714",
+    "distance_m": 5.692384036148429,
+    "osm_way_id": "1206471791",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1206471791:6:f",
+    "origin": "5031447714",
+    "destination": "330611865",
+    "distance_m": 12.590752921864693,
+    "osm_way_id": "1206471791",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1206471791:7:f",
+    "origin": "330611865",
+    "destination": "7282708257",
+    "distance_m": 6.335363637150485,
+    "osm_way_id": "1206471791",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "1208090516:2:f",
+    "origin": "11153251126",
+    "destination": "338509398",
+    "distance_m": 4.693668155418857,
+    "osm_way_id": "1208090516",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "129724088:0:f",
+    "origin": "5914715605",
+    "destination": "10700461906",
+    "distance_m": 13.491604073135617,
+    "osm_way_id": "129724088",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724088:1:f",
+    "origin": "10700461906",
+    "destination": "13116149839",
+    "distance_m": 12.398316263221615,
+    "osm_way_id": "129724088",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724088:2:f",
+    "origin": "13116149839",
+    "destination": "1430585593",
+    "distance_m": 2.6367900599895115,
+    "osm_way_id": "129724088",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:0:f",
+    "origin": "8660827905",
+    "destination": "9684692395",
+    "distance_m": 9.957955277848011,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:10:f",
+    "origin": "10700461905",
+    "destination": "10700408298",
+    "distance_m": 10.156152295106315,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:11:f",
+    "origin": "10700408298",
+    "destination": "358106859",
+    "distance_m": 5.235912577695463,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:1:f",
+    "origin": "9684692395",
+    "destination": "9725910975",
+    "distance_m": 6.453506813070409,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:2:f",
+    "origin": "9725910975",
+    "destination": "9725910976",
+    "distance_m": 5.988124027589943,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:3:f",
+    "origin": "9725910976",
+    "destination": "9684692396",
+    "distance_m": 6.893048783127227,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:4:f",
+    "origin": "9684692396",
+    "destination": "9684692397",
+    "distance_m": 9.92363774743892,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:5:f",
+    "origin": "9684692397",
+    "destination": "1430585593",
+    "distance_m": 9.45475695699932,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:6:f",
+    "origin": "1430585593",
+    "destination": "13116149841",
+    "distance_m": 7.530181510058137,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:7:f",
+    "origin": "13116149841",
+    "destination": "13116149840",
+    "distance_m": 5.4345445312297835,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:8:f",
+    "origin": "13116149840",
+    "destination": "13116149842",
+    "distance_m": 6.653928212199059,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "129724090:9:f",
+    "origin": "13116149842",
+    "destination": "10700461905",
+    "distance_m": 8.877271277938132,
+    "osm_way_id": "129724090",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1331435087:1:f",
+    "origin": "365309941",
+    "destination": "10797357341",
+    "distance_m": 34.944406849766494,
+    "osm_way_id": "1331435087",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "1331435087:1:r",
+    "origin": "10797357341",
+    "destination": "365309941",
+    "distance_m": 34.944406849766494,
+    "osm_way_id": "1331435087",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "1331435087:2:f",
+    "origin": "10797357341",
+    "destination": "365303077",
+    "distance_m": 2.6292228581181676,
+    "osm_way_id": "1331435087",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "1331435087:2:r",
+    "origin": "365303077",
+    "destination": "10797357341",
+    "distance_m": 2.6292228581181676,
+    "osm_way_id": "1331435087",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "1331435087:3:f",
+    "origin": "365303077",
+    "destination": "365303742",
+    "distance_m": 26.986182071411772,
+    "osm_way_id": "1331435087",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "1331435087:3:r",
+    "origin": "365303742",
+    "destination": "365303077",
+    "distance_m": 26.986182071411772,
+    "osm_way_id": "1331435087",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "1331435089:0:f",
+    "origin": "12319141941",
+    "destination": "5545901139",
+    "distance_m": 8.515122693576798,
+    "osm_way_id": "1331435089",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1331435089:1:f",
+    "origin": "5545901139",
+    "destination": "8660827863",
+    "distance_m": 34.55127571163499,
+    "osm_way_id": "1331435089",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1331435089:2:f",
+    "origin": "8660827863",
+    "destination": "368788301",
+    "distance_m": 13.28997971189928,
+    "osm_way_id": "1331435089",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1331435089:3:f",
+    "origin": "368788301",
+    "destination": "8660827880",
+    "distance_m": 11.247716634819561,
+    "osm_way_id": "1331435089",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "1425641683:0:f",
+    "origin": "316076840",
+    "destination": "10735878416",
+    "distance_m": 6.845237912666078,
+    "osm_way_id": "1425641683",
+    "name": "Carrera 55A",
+    "highway": "residential"
+  },
+  {
+    "id": "1425641683:1:f",
+    "origin": "10735878416",
+    "destination": "13952114586",
+    "distance_m": 48.32796763118118,
+    "osm_way_id": "1425641683",
+    "name": "Carrera 55A",
+    "highway": "residential"
+  },
+  {
+    "id": "1425641683:2:f",
+    "origin": "13952114586",
+    "destination": "316076841",
+    "distance_m": 13.892209406423325,
+    "osm_way_id": "1425641683",
+    "name": "Carrera 55A",
+    "highway": "residential"
+  },
+  {
+    "id": "1473956039:0:f",
+    "origin": "316076841",
+    "destination": "10311387537",
+    "distance_m": 74.00607516797005,
+    "osm_way_id": "1473956039",
+    "name": "Carrera 55A",
+    "highway": "residential"
+  },
+  {
+    "id": "1473956039:1:f",
+    "origin": "10311387537",
+    "destination": "316076842",
+    "distance_m": 8.487386164459839,
+    "osm_way_id": "1473956039",
+    "name": "Carrera 55A",
+    "highway": "residential"
+  },
+  {
+    "id": "1475616043:0:f",
+    "origin": "9410962671",
+    "destination": "9410962670",
+    "distance_m": 49.466596823874795,
+    "osm_way_id": "1475616043",
+    "name": "Calle 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1475616043:1:f",
+    "origin": "9410962670",
+    "destination": "368822189",
+    "distance_m": 20.231144305494908,
+    "osm_way_id": "1475616043",
+    "name": "Calle 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1475616043:2:f",
+    "origin": "368822189",
+    "destination": "13537064870",
+    "distance_m": 18.649816420141267,
+    "osm_way_id": "1475616043",
+    "name": "Calle 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1476311774:0:f",
+    "origin": "316076844",
+    "destination": "13957920182",
+    "distance_m": 7.4489041197637595,
+    "osm_way_id": "1476311774",
+    "name": "Calle 48",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1476311774:1:f",
+    "origin": "13957920182",
+    "destination": "13957920183",
+    "distance_m": 84.34508846947168,
+    "osm_way_id": "1476311774",
+    "name": "Calle 48",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1476311774:2:f",
+    "origin": "13957920183",
+    "destination": "316076833",
+    "distance_m": 8.392667535556223,
+    "osm_way_id": "1476311774",
+    "name": "Calle 48",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1486387110:6:f",
+    "origin": "5545967997",
+    "destination": "10797357318",
+    "distance_m": 5.668715346377862,
+    "osm_way_id": "1486387110",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "1486387110:7:f",
+    "origin": "10797357318",
+    "destination": "365303742",
+    "distance_m": 6.623703680676671,
+    "osm_way_id": "1486387110",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "1530400999:0:f",
+    "origin": "358098106",
+    "destination": "13946457891",
+    "distance_m": 6.234800445009905,
+    "osm_way_id": "1530400999",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530400999:1:f",
+    "origin": "13946457891",
+    "destination": "8644401547",
+    "distance_m": 18.98910998559718,
+    "osm_way_id": "1530400999",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530401000:0:f",
+    "origin": "358098106",
+    "destination": "9942951073",
+    "distance_m": 5.706636206641589,
+    "osm_way_id": "1530401000",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530401000:1:f",
+    "origin": "9942951073",
+    "destination": "13948112303",
+    "distance_m": 11.099673730739848,
+    "osm_way_id": "1530401000",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530401003:0:f",
+    "origin": "13948112306",
+    "destination": "13946457887",
+    "distance_m": 16.998290084792075,
+    "osm_way_id": "1530401003",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530401003:1:f",
+    "origin": "13946457887",
+    "destination": "8644401551",
+    "distance_m": 4.179623168020132,
+    "osm_way_id": "1530401003",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530401003:2:f",
+    "origin": "8644401551",
+    "destination": "7282815461",
+    "distance_m": 5.90743224018649,
+    "osm_way_id": "1530401003",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530401003:3:f",
+    "origin": "7282815461",
+    "destination": "358098106",
+    "distance_m": 6.075434864026569,
+    "osm_way_id": "1530401003",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530401006:0:f",
+    "origin": "358098106",
+    "destination": "8644394498",
+    "distance_m": 20.06624462805766,
+    "osm_way_id": "1530401006",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530401006:1:f",
+    "origin": "8644394498",
+    "destination": "8644401542",
+    "distance_m": 18.85852845979268,
+    "osm_way_id": "1530401006",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530401006:2:f",
+    "origin": "8644401542",
+    "destination": "13948112309",
+    "distance_m": 15.515310286973886,
+    "osm_way_id": "1530401006",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "1530463551:0:f",
+    "origin": "13948626635",
+    "destination": "358101469",
+    "distance_m": 2.9414574070463813,
+    "osm_way_id": "1530463551",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "1530463552:0:f",
+    "origin": "13948626636",
+    "destination": "13948626635",
+    "distance_m": 12.283327826923374,
+    "osm_way_id": "1530463552",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "1530825906:0:f",
+    "origin": "13951994739",
+    "destination": "13951994738",
+    "distance_m": 31.515061923699992,
+    "osm_way_id": "1530825906",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825906:0:r",
+    "origin": "13951994738",
+    "destination": "13951994739",
+    "distance_m": 31.515061923699992,
+    "osm_way_id": "1530825906",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825907:0:f",
+    "origin": "13951994742",
+    "destination": "13951994741",
+    "distance_m": 25.480515551687688,
+    "osm_way_id": "1530825907",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825907:0:r",
+    "origin": "13951994741",
+    "destination": "13951994742",
+    "distance_m": 25.480515551687688,
+    "osm_way_id": "1530825907",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825907:1:f",
+    "origin": "13951994741",
+    "destination": "13951994740",
+    "distance_m": 32.63868397488951,
+    "osm_way_id": "1530825907",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825907:1:r",
+    "origin": "13951994740",
+    "destination": "13951994741",
+    "distance_m": 32.63868397488951,
+    "osm_way_id": "1530825907",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825908:0:f",
+    "origin": "13951994755",
+    "destination": "13951994754",
+    "distance_m": 10.101134601166777,
+    "osm_way_id": "1530825908",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825908:0:r",
+    "origin": "13951994754",
+    "destination": "13951994755",
+    "distance_m": 10.101134601166777,
+    "osm_way_id": "1530825908",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825908:1:f",
+    "origin": "13951994754",
+    "destination": "13951994752",
+    "distance_m": 11.81786683195167,
+    "osm_way_id": "1530825908",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825908:1:r",
+    "origin": "13951994752",
+    "destination": "13951994754",
+    "distance_m": 11.81786683195167,
+    "osm_way_id": "1530825908",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825908:2:f",
+    "origin": "13951994752",
+    "destination": "13951994753",
+    "distance_m": 15.940592692468885,
+    "osm_way_id": "1530825908",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825908:2:r",
+    "origin": "13951994753",
+    "destination": "13951994752",
+    "distance_m": 15.940592692468885,
+    "osm_way_id": "1530825908",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:0:f",
+    "origin": "13951994761",
+    "destination": "13951994760",
+    "distance_m": 7.708700886656542,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:0:r",
+    "origin": "13951994760",
+    "destination": "13951994761",
+    "distance_m": 7.708700886656542,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:1:f",
+    "origin": "13951994760",
+    "destination": "13951994759",
+    "distance_m": 6.243377154480045,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:1:r",
+    "origin": "13951994759",
+    "destination": "13951994760",
+    "distance_m": 6.243377154480045,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:2:f",
+    "origin": "13951994759",
+    "destination": "13951994758",
+    "distance_m": 0.8069714412057151,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:2:r",
+    "origin": "13951994758",
+    "destination": "13951994759",
+    "distance_m": 0.8069714412057151,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:3:f",
+    "origin": "13951994758",
+    "destination": "13951994757",
+    "distance_m": 0.5259012327276993,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:3:r",
+    "origin": "13951994757",
+    "destination": "13951994758",
+    "distance_m": 0.5259012327276993,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:4:f",
+    "origin": "13951994757",
+    "destination": "13951994756",
+    "distance_m": 16.9019111593715,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1530825909:4:r",
+    "origin": "13951994756",
+    "destination": "13951994757",
+    "distance_m": 16.9019111593715,
+    "osm_way_id": "1530825909",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1531424827:0:f",
+    "origin": "13957920167",
+    "destination": "13957920166",
+    "distance_m": 8.736339525041027,
+    "osm_way_id": "1531424827",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1531424827:0:r",
+    "origin": "13957920166",
+    "destination": "13957920167",
+    "distance_m": 8.736339525041027,
+    "osm_way_id": "1531424827",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1531424827:1:f",
+    "origin": "13957920166",
+    "destination": "13957920165",
+    "distance_m": 45.96477917688683,
+    "osm_way_id": "1531424827",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1531424827:1:r",
+    "origin": "13957920165",
+    "destination": "13957920166",
+    "distance_m": 45.96477917688683,
+    "osm_way_id": "1531424827",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1531424827:2:f",
+    "origin": "13957920165",
+    "destination": "13957920164",
+    "distance_m": 20.790041771062835,
+    "osm_way_id": "1531424827",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "1531424827:2:r",
+    "origin": "13957920164",
+    "destination": "13957920165",
+    "distance_m": 20.790041771062835,
+    "osm_way_id": "1531424827",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "28669130:0:f",
+    "origin": "315063407",
+    "destination": "13957920164",
+    "distance_m": 88.57230443752414,
+    "osm_way_id": "28669130",
+    "name": "Calle 45A",
+    "highway": "residential"
+  },
+  {
+    "id": "28669130:1:f",
+    "origin": "13957920164",
+    "destination": "316077480",
+    "distance_m": 16.250910681817004,
+    "osm_way_id": "28669130",
+    "name": "Calle 45A",
+    "highway": "residential"
+  },
+  {
+    "id": "28747394:0:f",
+    "origin": "316076832",
+    "destination": "10735878408",
+    "distance_m": 5.922212579957443,
+    "osm_way_id": "28747394",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "28747394:0:r",
+    "origin": "10735878408",
+    "destination": "316076832",
+    "distance_m": 5.922212579957443,
+    "osm_way_id": "28747394",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "28747394:1:f",
+    "origin": "10735878408",
+    "destination": "13957920184",
+    "distance_m": 98.33498153653738,
+    "osm_way_id": "28747394",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "28747394:1:r",
+    "origin": "13957920184",
+    "destination": "10735878408",
+    "distance_m": 98.33498153653738,
+    "osm_way_id": "28747394",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "28747394:2:f",
+    "origin": "13957920184",
+    "destination": "316076833",
+    "distance_m": 6.945788413956195,
+    "osm_way_id": "28747394",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "28747394:2:r",
+    "origin": "316076833",
+    "destination": "13957920184",
+    "distance_m": 6.945788413956195,
+    "osm_way_id": "28747394",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "28747397:2:f",
+    "origin": "368769316",
+    "destination": "11102395483",
+    "distance_m": 99.87970763739708,
+    "osm_way_id": "28747397",
+    "name": "Calle 49A",
+    "highway": "residential"
+  },
+  {
+    "id": "28747397:3:f",
+    "origin": "11102395483",
+    "destination": "11433084323",
+    "distance_m": 7.71039970614173,
+    "osm_way_id": "28747397",
+    "name": "Calle 49A",
+    "highway": "residential"
+  },
+  {
+    "id": "28747397:4:f",
+    "origin": "11433084323",
+    "destination": "316076841",
+    "distance_m": 5.339304501185073,
+    "osm_way_id": "28747397",
+    "name": "Calle 49A",
+    "highway": "residential"
+  },
+  {
+    "id": "28747398:0:f",
+    "origin": "8660827880",
+    "destination": "9408617442",
+    "distance_m": 5.041485060085618,
+    "osm_way_id": "28747398",
+    "name": "Carrera 55",
+    "highway": "tertiary"
+  },
+  {
+    "id": "28747398:1:f",
+    "origin": "9408617442",
+    "destination": "316077534",
+    "distance_m": 11.235268884211605,
+    "osm_way_id": "28747398",
+    "name": "Carrera 55",
+    "highway": "tertiary"
+  },
+  {
+    "id": "28747398:2:f",
+    "origin": "316077534",
+    "destination": "10790567006",
+    "distance_m": 60.68691003049419,
+    "osm_way_id": "28747398",
+    "name": "Carrera 55",
+    "highway": "tertiary"
+  },
+  {
+    "id": "28747398:3:f",
+    "origin": "10790567006",
+    "destination": "368799657",
+    "distance_m": 7.847430887364161,
+    "osm_way_id": "28747398",
+    "name": "Carrera 55",
+    "highway": "tertiary"
+  },
+  {
+    "id": "28747400:10:f",
+    "origin": "13952114582",
+    "destination": "13625761832",
+    "distance_m": 111.7205282319863,
+    "osm_way_id": "28747400",
+    "name": "Carrera 54",
+    "highway": "residential"
+  },
+  {
+    "id": "28747400:11:f",
+    "origin": "13625761832",
+    "destination": "10701834598",
+    "distance_m": 11.117104252410636,
+    "osm_way_id": "28747400",
+    "name": "Carrera 54",
+    "highway": "residential"
+  },
+  {
+    "id": "28747400:12:f",
+    "origin": "10701834598",
+    "destination": "8660827870",
+    "distance_m": 4.374808495538705,
+    "osm_way_id": "28747400",
+    "name": "Carrera 54",
+    "highway": "residential"
+  },
+  {
+    "id": "28747400:13:f",
+    "origin": "8660827870",
+    "destination": "368789070",
+    "distance_m": 5.113485379479105,
+    "osm_way_id": "28747400",
+    "name": "Carrera 54",
+    "highway": "residential"
+  },
+  {
+    "id": "28747400:7:f",
+    "origin": "13625761833",
+    "destination": "13952114585",
+    "distance_m": 27.483078558202305,
+    "osm_way_id": "28747400",
+    "name": "Carrera 54",
+    "highway": "residential"
+  },
+  {
+    "id": "28747400:8:f",
+    "origin": "13952114585",
+    "destination": "368794464",
+    "distance_m": 8.537759810854071,
+    "osm_way_id": "28747400",
+    "name": "Carrera 54",
+    "highway": "residential"
+  },
+  {
+    "id": "28747400:9:f",
+    "origin": "368794464",
+    "destination": "13952114582",
+    "distance_m": 7.656974574167771,
+    "osm_way_id": "28747400",
+    "name": "Carrera 54",
+    "highway": "residential"
+  },
+  {
+    "id": "30613952:1:f",
+    "origin": "13541968001",
+    "destination": "338509063",
+    "distance_m": 5.19119470884622,
+    "osm_way_id": "30613952",
+    "name": "Avenida Colombia",
+    "highway": "secondary"
+  },
+  {
+    "id": "30613952:2:f",
+    "origin": "338509063",
+    "destination": "13541968002",
+    "distance_m": 5.419819901500833,
+    "osm_way_id": "30613952",
+    "name": "Avenida Colombia",
+    "highway": "secondary"
+  },
+  {
+    "id": "30613952:3:f",
+    "origin": "13541968002",
+    "destination": "8665414965",
+    "distance_m": 4.9405244423602985,
+    "osm_way_id": "30613952",
+    "name": "Avenida Colombia",
+    "highway": "secondary"
+  },
+  {
+    "id": "30613952:4:f",
+    "origin": "8665414965",
+    "destination": "338509062",
+    "distance_m": 7.200285485448643,
+    "osm_way_id": "30613952",
+    "name": "Avenida Colombia",
+    "highway": "secondary"
+  },
+  {
+    "id": "30613952:5:f",
+    "origin": "338509062",
+    "destination": "13541968003",
+    "distance_m": 5.40003640618308,
+    "osm_way_id": "30613952",
+    "name": "Avenida Colombia",
+    "highway": "secondary"
+  },
+  {
+    "id": "30613952:6:f",
+    "origin": "13541968003",
+    "destination": "338509446",
+    "distance_m": 9.321038411181876,
+    "osm_way_id": "30613952",
+    "name": "Avenida Colombia",
+    "highway": "secondary"
+  },
+  {
+    "id": "30614012:0:f",
+    "origin": "338509397",
+    "destination": "11153266028",
+    "distance_m": 5.074578237231813,
+    "osm_way_id": "30614012",
+    "name": "Calle 50",
+    "highway": "residential"
+  },
+  {
+    "id": "30614012:1:f",
+    "origin": "11153266028",
+    "destination": "1235397465",
+    "distance_m": 41.94632963883151,
+    "osm_way_id": "30614012",
+    "name": "Calle 50",
+    "highway": "residential"
+  },
+  {
+    "id": "30614012:2:f",
+    "origin": "1235397465",
+    "destination": "11153251130",
+    "distance_m": 51.18321254770657,
+    "osm_way_id": "30614012",
+    "name": "Calle 50",
+    "highway": "residential"
+  },
+  {
+    "id": "30614012:3:f",
+    "origin": "11153251130",
+    "destination": "338509398",
+    "distance_m": 3.1351251188208327,
+    "osm_way_id": "30614012",
+    "name": "Calle 50",
+    "highway": "residential"
+  },
+  {
+    "id": "30614012:4:f",
+    "origin": "338509398",
+    "destination": "11153251128",
+    "distance_m": 2.6766910421240198,
+    "osm_way_id": "30614012",
+    "name": "Calle 50",
+    "highway": "residential"
+  },
+  {
+    "id": "30614025:0:f",
+    "origin": "309857486",
+    "destination": "10311387550",
+    "distance_m": 5.48104783903703,
+    "osm_way_id": "30614025",
+    "name": "Carrera 56B",
+    "highway": "secondary"
+  },
+  {
+    "id": "30614025:1:f",
+    "origin": "10311387550",
+    "destination": "13541968008",
+    "distance_m": 8.949662313709604,
+    "osm_way_id": "30614025",
+    "name": "Carrera 56B",
+    "highway": "secondary"
+  },
+  {
+    "id": "30614025:2:f",
+    "origin": "13541968008",
+    "destination": "338509446",
+    "distance_m": 22.844299206498306,
+    "osm_way_id": "30614025",
+    "name": "Carrera 56B",
+    "highway": "secondary"
+  },
+  {
+    "id": "30614025:3:f",
+    "origin": "338509446",
+    "destination": "10724313608",
+    "distance_m": 21.50215572176913,
+    "osm_way_id": "30614025",
+    "name": "Carrera 56B",
+    "highway": "secondary"
+  },
+  {
+    "id": "31960346:0:f",
+    "origin": "330611694",
+    "destination": "10735878455",
+    "distance_m": 4.26192014128423,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:10:f",
+    "origin": "11448912490",
+    "destination": "11448912495",
+    "distance_m": 11.826492241948996,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:11:f",
+    "origin": "11448912495",
+    "destination": "11448912494",
+    "distance_m": 9.639207483060721,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:12:f",
+    "origin": "11448912494",
+    "destination": "11448912493",
+    "distance_m": 11.36526741200035,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:13:f",
+    "origin": "11448912493",
+    "destination": "11448912492",
+    "distance_m": 6.601423623675453,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:14:f",
+    "origin": "11448912492",
+    "destination": "11448912491",
+    "distance_m": 6.129100127287055,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:15:f",
+    "origin": "11448912491",
+    "destination": "11448912496",
+    "distance_m": 4.745591346052612,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:16:f",
+    "origin": "11448912496",
+    "destination": "358015115",
+    "distance_m": 3.9791874896831594,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:17:f",
+    "origin": "358015115",
+    "destination": "8660930927",
+    "distance_m": 29.832196617785968,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:18:f",
+    "origin": "8660930927",
+    "destination": "11448655886",
+    "distance_m": 1.9592590071043383,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:19:f",
+    "origin": "11448655886",
+    "destination": "5919356164",
+    "distance_m": 5.619135035254064,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:1:f",
+    "origin": "10735878455",
+    "destination": "8644401615",
+    "distance_m": 4.576626108426625,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:2:f",
+    "origin": "8644401615",
+    "destination": "8644401612",
+    "distance_m": 5.777715767351539,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:3:f",
+    "origin": "8644401612",
+    "destination": "8644401616",
+    "distance_m": 7.913471247013036,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:4:f",
+    "origin": "8644401616",
+    "destination": "11153266030",
+    "distance_m": 61.897074087583476,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:5:f",
+    "origin": "11153266030",
+    "destination": "338509397",
+    "distance_m": 3.69570101296652,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:6:f",
+    "origin": "338509397",
+    "destination": "11153266032",
+    "distance_m": 4.487249397472521,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:7:f",
+    "origin": "11153266032",
+    "destination": "11448912489",
+    "distance_m": 12.507092608641466,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:8:f",
+    "origin": "11448912489",
+    "destination": "11448912488",
+    "distance_m": 8.649802654802313,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31960346:9:f",
+    "origin": "11448912488",
+    "destination": "11448912490",
+    "distance_m": 8.346701537550693,
+    "osm_way_id": "31960346",
+    "name": "Carrera 49",
+    "highway": "residential"
+  },
+  {
+    "id": "31961739:0:f",
+    "origin": "316077526",
+    "destination": "10790551101",
+    "distance_m": 3.2569869868645243,
+    "osm_way_id": "31961739",
+    "name": "Calle 52",
+    "highway": "residential"
+  },
+  {
+    "id": "31961739:1:f",
+    "origin": "10790551101",
+    "destination": "13952114591",
+    "distance_m": 67.42179824911815,
+    "osm_way_id": "31961739",
+    "name": "Calle 52",
+    "highway": "residential"
+  },
+  {
+    "id": "31961739:2:f",
+    "origin": "13952114591",
+    "destination": "316077516",
+    "distance_m": 7.005335815851888,
+    "osm_way_id": "31961739",
+    "name": "Calle 52",
+    "highway": "residential"
+  },
+  {
+    "id": "31961739:3:f",
+    "origin": "316077516",
+    "destination": "13952114590",
+    "distance_m": 15.082702082592606,
+    "osm_way_id": "31961739",
+    "name": "Calle 52",
+    "highway": "residential"
+  },
+  {
+    "id": "31961739:4:f",
+    "origin": "13952114590",
+    "destination": "6591740759",
+    "distance_m": 32.17760188766327,
+    "osm_way_id": "31961739",
+    "name": "Calle 52",
+    "highway": "residential"
+  },
+  {
+    "id": "31961739:5:f",
+    "origin": "6591740759",
+    "destination": "9943116554",
+    "distance_m": 21.417973040398063,
+    "osm_way_id": "31961739",
+    "name": "Calle 52",
+    "highway": "residential"
+  },
+  {
+    "id": "31961739:6:f",
+    "origin": "9943116554",
+    "destination": "13951994750",
+    "distance_m": 38.782706957952975,
+    "osm_way_id": "31961739",
+    "name": "Calle 52",
+    "highway": "residential"
+  },
+  {
+    "id": "31961739:7:f",
+    "origin": "13951994750",
+    "destination": "316077510",
+    "distance_m": 8.893735708875905,
+    "osm_way_id": "31961739",
+    "name": "Calle 52",
+    "highway": "residential"
+  },
+  {
+    "id": "31965650:0:f",
+    "origin": "358106859",
+    "destination": "10700408299",
+    "distance_m": 1.5179743649890574,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:10:f",
+    "origin": "8660827894",
+    "destination": "10701861807",
+    "distance_m": 14.077261912903225,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:11:f",
+    "origin": "10701861807",
+    "destination": "316077507",
+    "distance_m": 2.7767240082341837,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:12:f",
+    "origin": "316077507",
+    "destination": "5919476746",
+    "distance_m": 3.4579996604923693,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:13:f",
+    "origin": "5919476746",
+    "destination": "358106122",
+    "distance_m": 29.577778833836447,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:14:f",
+    "origin": "358106122",
+    "destination": "8660827892",
+    "distance_m": 51.65825845744045,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:15:f",
+    "origin": "8660827892",
+    "destination": "8660827893",
+    "distance_m": 10.700933398705228,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:16:f",
+    "origin": "8660827893",
+    "destination": "10700408288",
+    "distance_m": 1.7512306954215033,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:17:f",
+    "origin": "10700408288",
+    "destination": "14298011856",
+    "distance_m": 4.087195120214695,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:18:f",
+    "origin": "14298011856",
+    "destination": "358106124",
+    "distance_m": 4.8380370459152475,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:1:f",
+    "origin": "10700408299",
+    "destination": "8660827903",
+    "distance_m": 3.204662968299257,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:2:f",
+    "origin": "8660827903",
+    "destination": "8660827902",
+    "distance_m": 5.924531937736413,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:3:f",
+    "origin": "8660827902",
+    "destination": "7282639316",
+    "distance_m": 10.062105203882972,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:4:f",
+    "origin": "7282639316",
+    "destination": "5919476750",
+    "distance_m": 7.476063783542833,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:5:f",
+    "origin": "5919476750",
+    "destination": "10797357345",
+    "distance_m": 5.654445765656614,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:6:f",
+    "origin": "10797357345",
+    "destination": "358106862",
+    "distance_m": 3.218162156502825,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:7:f",
+    "origin": "358106862",
+    "destination": "8660827900",
+    "distance_m": 8.53428955574257,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:8:f",
+    "origin": "8660827900",
+    "destination": "8660827901",
+    "distance_m": 8.098437473401857,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "31965650:9:f",
+    "origin": "8660827901",
+    "destination": "8660827894",
+    "distance_m": 37.48785570000015,
+    "osm_way_id": "31965650",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "32491930:0:f",
+    "origin": "365307279",
+    "destination": "1235397468",
+    "distance_m": 65.37368320349296,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:10:f",
+    "origin": "5919241392",
+    "destination": "8644394422",
+    "distance_m": 10.290394708994265,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:11:f",
+    "origin": "8644394422",
+    "destination": "330610901",
+    "distance_m": 11.12915864719025,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:12:f",
+    "origin": "330610901",
+    "destination": "8644394443",
+    "distance_m": 43.31009210166976,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:13:f",
+    "origin": "8644394443",
+    "destination": "8644394495",
+    "distance_m": 40.02935017169787,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:14:f",
+    "origin": "8644394495",
+    "destination": "13948626636",
+    "distance_m": 1.2731360561557996,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:1:f",
+    "origin": "1235397468",
+    "destination": "8644401667",
+    "distance_m": 48.531996509182406,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:2:f",
+    "origin": "8644401667",
+    "destination": "9854564271",
+    "distance_m": 1.6351902304564059,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:3:f",
+    "origin": "9854564271",
+    "destination": "4351304170",
+    "distance_m": 1.4072618350906403,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:4:f",
+    "origin": "4351304170",
+    "destination": "4351304171",
+    "distance_m": 3.891623383381715,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:5:f",
+    "origin": "4351304171",
+    "destination": "9854564270",
+    "distance_m": 1.6126671208498446,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:6:f",
+    "origin": "9854564270",
+    "destination": "8644401585",
+    "distance_m": 3.1302060180318607,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:7:f",
+    "origin": "8644401585",
+    "destination": "8644401571",
+    "distance_m": 9.0097506546859,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:8:f",
+    "origin": "8644401571",
+    "destination": "8644401572",
+    "distance_m": 7.43926952837892,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32491930:9:f",
+    "origin": "8644401572",
+    "destination": "5919241392",
+    "distance_m": 51.173531354652845,
+    "osm_way_id": "32491930",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "32504736:0:f",
+    "origin": "316076845",
+    "destination": "9702765107",
+    "distance_m": 35.853825812114046,
+    "osm_way_id": "32504736",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "32504736:1:f",
+    "origin": "9702765107",
+    "destination": "316077480",
+    "distance_m": 53.63422478245322,
+    "osm_way_id": "32504736",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "32754925:0:f",
+    "origin": "368769314",
+    "destination": "368769316",
+    "distance_m": 39.96485520333059,
+    "osm_way_id": "32754925",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "32754925:0:r",
+    "origin": "368769316",
+    "destination": "368769314",
+    "distance_m": 39.96485520333059,
+    "osm_way_id": "32754925",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:0:f",
+    "origin": "8660827870",
+    "destination": "8660827872",
+    "distance_m": 5.772021115825111,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:10:f",
+    "origin": "8660827877",
+    "destination": "368792091",
+    "distance_m": 5.938957860378961,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:1:f",
+    "origin": "8660827872",
+    "destination": "8660827871",
+    "distance_m": 3.553548858712744,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:2:f",
+    "origin": "8660827871",
+    "destination": "5545901142",
+    "distance_m": 6.572682471264827,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:3:f",
+    "origin": "5545901142",
+    "destination": "8660827878",
+    "distance_m": 14.91375330703829,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:4:f",
+    "origin": "8660827878",
+    "destination": "8660827873",
+    "distance_m": 21.77108435286013,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:5:f",
+    "origin": "8660827873",
+    "destination": "8660827874",
+    "distance_m": 26.09500247077105,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:6:f",
+    "origin": "8660827874",
+    "destination": "8660827875",
+    "distance_m": 7.354286045746798,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:7:f",
+    "origin": "8660827875",
+    "destination": "8660827876",
+    "distance_m": 7.2088078669478595,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:8:f",
+    "origin": "8660827876",
+    "destination": "10701834600",
+    "distance_m": 0.9515438683925169,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32755539:9:f",
+    "origin": "10701834600",
+    "destination": "8660827877",
+    "distance_m": 4.763467132961974,
+    "osm_way_id": "32755539",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "32756569:0:f",
+    "origin": "368777344",
+    "destination": "5919476755",
+    "distance_m": 8.160051201381183,
+    "osm_way_id": "32756569",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "32756569:1:f",
+    "origin": "5919476755",
+    "destination": "5919476758",
+    "distance_m": 7.517600066902562,
+    "osm_way_id": "32756569",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "32756569:2:f",
+    "origin": "5919476758",
+    "destination": "368804013",
+    "distance_m": 19.501335610039817,
+    "osm_way_id": "32756569",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "32756569:3:f",
+    "origin": "368804013",
+    "destination": "5548481855",
+    "distance_m": 11.048908037969195,
+    "osm_way_id": "32756569",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "32756569:4:f",
+    "origin": "5548481855",
+    "destination": "10790567031",
+    "distance_m": 6.881580068914731,
+    "osm_way_id": "32756569",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "32756842:9:f",
+    "origin": "3158171884",
+    "destination": "9902885709",
+    "distance_m": 70.28528268100051,
+    "osm_way_id": "32756842",
+    "name": "Carrera 56C",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32756879:0:f",
+    "origin": "309857486",
+    "destination": "338509288",
+    "distance_m": 18.991782967089975,
+    "osm_way_id": "32756879",
+    "name": "Avenida Colombia",
+    "highway": "secondary"
+  },
+  {
+    "id": "32757131:10:f",
+    "origin": "368780598",
+    "destination": "8665635448",
+    "distance_m": 39.88510780065454,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:11:f",
+    "origin": "8665635448",
+    "destination": "368776784",
+    "distance_m": 8.357058253616596,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:12:f",
+    "origin": "368776784",
+    "destination": "5919476739",
+    "distance_m": 10.62288471951193,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:13:f",
+    "origin": "5919476739",
+    "destination": "368780617",
+    "distance_m": 10.412283381242766,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:14:f",
+    "origin": "368780617",
+    "destination": "368780624",
+    "distance_m": 13.943530018475256,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:15:f",
+    "origin": "368780624",
+    "destination": "368799647",
+    "distance_m": 48.31832808041613,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:16:f",
+    "origin": "368799647",
+    "destination": "368799649",
+    "distance_m": 54.83558807337723,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:17:f",
+    "origin": "368799649",
+    "destination": "368799652",
+    "distance_m": 24.301759897850484,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:18:f",
+    "origin": "368799652",
+    "destination": "10790567008",
+    "distance_m": 7.6256188746476194,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:19:f",
+    "origin": "10790567008",
+    "destination": "368799657",
+    "distance_m": 6.881426508049647,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757131:9:f",
+    "origin": "10790567029",
+    "destination": "368780598",
+    "distance_m": 8.04189565830936,
+    "osm_way_id": "32757131",
+    "name": "Carrera 56",
+    "highway": "tertiary"
+  },
+  {
+    "id": "32757337:0:f",
+    "origin": "368827370",
+    "destination": "7418462944",
+    "distance_m": 74.0021692612008,
+    "osm_way_id": "32757337",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757337:1:f",
+    "origin": "7418462944",
+    "destination": "10311387547",
+    "distance_m": 45.025101778787125,
+    "osm_way_id": "32757337",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757337:2:f",
+    "origin": "10311387547",
+    "destination": "9410962670",
+    "distance_m": 5.529035638975181,
+    "osm_way_id": "32757337",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:0:f",
+    "origin": "368836818",
+    "destination": "368841353",
+    "distance_m": 26.979866767206644,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:0:r",
+    "origin": "368841353",
+    "destination": "368836818",
+    "distance_m": 26.979866767206644,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:1:f",
+    "origin": "368841353",
+    "destination": "368841354",
+    "distance_m": 31.082027981329237,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:1:r",
+    "origin": "368841354",
+    "destination": "368841353",
+    "distance_m": 31.082027981329237,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:2:f",
+    "origin": "368841354",
+    "destination": "368839760",
+    "distance_m": 10.657714368016547,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:2:r",
+    "origin": "368839760",
+    "destination": "368841354",
+    "distance_m": 10.657714368016547,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:3:f",
+    "origin": "368839760",
+    "destination": "9371905712",
+    "distance_m": 49.97126701074701,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:3:r",
+    "origin": "9371905712",
+    "destination": "368839760",
+    "distance_m": 49.97126701074701,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:4:f",
+    "origin": "9371905712",
+    "destination": "368799647",
+    "distance_m": 25.375051031444205,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757377:4:r",
+    "origin": "368799647",
+    "destination": "9371905712",
+    "distance_m": 25.375051031444205,
+    "osm_way_id": "32757377",
+    "name": "Calle 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757402:1:f",
+    "origin": "13952114593",
+    "destination": "368780598",
+    "distance_m": 8.599367644859575,
+    "osm_way_id": "32757402",
+    "name": "Calle 54A",
+    "highway": "residential"
+  },
+  {
+    "id": "32757402:1:r",
+    "origin": "368780598",
+    "destination": "13952114593",
+    "distance_m": 8.599367644859575,
+    "osm_way_id": "32757402",
+    "name": "Calle 54A",
+    "highway": "residential"
+  },
+  {
+    "id": "32773070:0:f",
+    "origin": "365303742",
+    "destination": "10797357335",
+    "distance_m": 2.4818573197144294,
+    "osm_way_id": "32773070",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "32773070:1:f",
+    "origin": "10797357335",
+    "destination": "5478741170",
+    "distance_m": 19.640314070114577,
+    "osm_way_id": "32773070",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "32773070:2:f",
+    "origin": "5478741170",
+    "destination": "5478741171",
+    "distance_m": 22.125255474052,
+    "osm_way_id": "32773070",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "32773070:3:f",
+    "origin": "5478741171",
+    "destination": "8660796764",
+    "distance_m": 17.00729270204693,
+    "osm_way_id": "32773070",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "32773070:4:f",
+    "origin": "8660796764",
+    "destination": "10704763619",
+    "distance_m": 30.649504406478428,
+    "osm_way_id": "32773070",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "32773070:5:f",
+    "origin": "10704763619",
+    "destination": "369112874",
+    "distance_m": 2.979492517475676,
+    "osm_way_id": "32773070",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "32773070:6:f",
+    "origin": "369112874",
+    "destination": "6917050949",
+    "distance_m": 8.420282547395455,
+    "osm_way_id": "32773070",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "32773070:7:f",
+    "origin": "6917050949",
+    "destination": "368792098",
+    "distance_m": 113.73850159883368,
+    "osm_way_id": "32773070",
+    "name": "Calle 55",
+    "highway": "residential"
+  },
+  {
+    "id": "34939687:0:f",
+    "origin": "13948112303",
+    "destination": "13946457896",
+    "distance_m": 1.739226736032204,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:10:f",
+    "origin": "10735878422",
+    "destination": "358101472",
+    "distance_m": 3.874539234334022,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:11:f",
+    "origin": "358101472",
+    "destination": "10735878424",
+    "distance_m": 3.672493675753968,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:12:f",
+    "origin": "10735878424",
+    "destination": "8660836183",
+    "distance_m": 13.754321525178854,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:13:f",
+    "origin": "8660836183",
+    "destination": "8660836182",
+    "distance_m": 18.064633077667835,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:14:f",
+    "origin": "8660836182",
+    "destination": "10311382902",
+    "distance_m": 46.89953646981363,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:15:f",
+    "origin": "10311382902",
+    "destination": "330611865",
+    "distance_m": 14.283810934922407,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:1:f",
+    "origin": "13946457896",
+    "destination": "9375858908",
+    "distance_m": 14.44870712691274,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:2:f",
+    "origin": "9375858908",
+    "destination": "8644394479",
+    "distance_m": 23.437444592428754,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:3:f",
+    "origin": "8644394479",
+    "destination": "8644401535",
+    "distance_m": 4.867039198709791,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:4:f",
+    "origin": "8644401535",
+    "destination": "13946505910",
+    "distance_m": 41.49470725697043,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:5:f",
+    "origin": "13946505910",
+    "destination": "358101469",
+    "distance_m": 6.746993255061187,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:6:f",
+    "origin": "358101469",
+    "destination": "13946505911",
+    "distance_m": 7.274574367551649,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:7:f",
+    "origin": "13946505911",
+    "destination": "8644394486",
+    "distance_m": 7.7661619061704705,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:8:f",
+    "origin": "8644394486",
+    "destination": "8644394481",
+    "distance_m": 9.457031864386348,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34939687:9:f",
+    "origin": "8644394481",
+    "destination": "10735878422",
+    "distance_m": 68.29759979293019,
+    "osm_way_id": "34939687",
+    "name": "Carrera 51",
+    "highway": "tertiary"
+  },
+  {
+    "id": "34940939:10:f",
+    "origin": "8660914314",
+    "destination": "5919356164",
+    "distance_m": 11.920297938623818,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:11:f",
+    "origin": "5919356164",
+    "destination": "10700461931",
+    "distance_m": 7.796463892554372,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:12:f",
+    "origin": "10700461931",
+    "destination": "8660930919",
+    "distance_m": 3.929313455925016,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:13:f",
+    "origin": "8660930919",
+    "destination": "8660914313",
+    "distance_m": 5.828200817344668,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:14:f",
+    "origin": "8660914313",
+    "destination": "8660930918",
+    "distance_m": 5.425657598750681,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:15:f",
+    "origin": "8660930918",
+    "destination": "8660914312",
+    "distance_m": 11.605208411435171,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:16:f",
+    "origin": "8660914312",
+    "destination": "8660930932",
+    "distance_m": 16.076083782517333,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:17:f",
+    "origin": "8660930932",
+    "destination": "5919356167",
+    "distance_m": 5.477617508040841,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:18:f",
+    "origin": "5919356167",
+    "destination": "8660930931",
+    "distance_m": 5.946632768984693,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:19:f",
+    "origin": "8660930931",
+    "destination": "5919356168",
+    "distance_m": 6.922894976380136,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:20:f",
+    "origin": "5919356168",
+    "destination": "8660930930",
+    "distance_m": 9.263304567958917,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:21:f",
+    "origin": "8660930930",
+    "destination": "6983360889",
+    "distance_m": 9.411825791978965,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:22:f",
+    "origin": "6983360889",
+    "destination": "358028382",
+    "distance_m": 9.99198935675179,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:23:f",
+    "origin": "358028382",
+    "destination": "11448655898",
+    "distance_m": 6.273584646557458,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:24:f",
+    "origin": "11448655898",
+    "destination": "5919356166",
+    "distance_m": 6.720187686988622,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:25:f",
+    "origin": "5919356166",
+    "destination": "6983360893",
+    "distance_m": 16.134162761103344,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:26:f",
+    "origin": "6983360893",
+    "destination": "10700461928",
+    "distance_m": 10.684593550228865,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:27:f",
+    "origin": "10700461928",
+    "destination": "6983048285",
+    "distance_m": 11.778667589643918,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:7:f",
+    "origin": "1235397473",
+    "destination": "8660930920",
+    "distance_m": 33.48650670523882,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:8:f",
+    "origin": "8660930920",
+    "destination": "10700461940",
+    "distance_m": 5.172304768835281,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "34940939:9:f",
+    "origin": "10700461940",
+    "destination": "8660914314",
+    "distance_m": 1.2151865813550846,
+    "osm_way_id": "34940939",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "44533153:0:f",
+    "origin": "8644401633",
+    "destination": "10735878439",
+    "distance_m": 2.1680876818988937,
+    "osm_way_id": "44533153",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "44533153:1:f",
+    "origin": "10735878439",
+    "destination": "1235397470",
+    "distance_m": 57.25248113782633,
+    "osm_way_id": "44533153",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "44533153:2:f",
+    "origin": "1235397470",
+    "destination": "8644401632",
+    "distance_m": 26.903763901746686,
+    "osm_way_id": "44533153",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "44533153:3:f",
+    "origin": "8644401632",
+    "destination": "8644401617",
+    "distance_m": 11.291994699361767,
+    "osm_way_id": "44533153",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "44533153:4:f",
+    "origin": "8644401617",
+    "destination": "8644401584",
+    "distance_m": 8.984564635684585,
+    "osm_way_id": "44533153",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "44533153:5:f",
+    "origin": "8644401584",
+    "destination": "330611694",
+    "distance_m": 4.623621544070973,
+    "osm_way_id": "44533153",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739030:0:f",
+    "origin": "365303077",
+    "destination": "10797357319",
+    "distance_m": 6.37768728006351,
+    "osm_way_id": "569739030",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:0:f",
+    "origin": "358106859",
+    "destination": "13929683985",
+    "distance_m": 2.80302503992206,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:1:f",
+    "origin": "13929683985",
+    "destination": "8660827907",
+    "distance_m": 3.138235791734378,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:2:f",
+    "origin": "8660827907",
+    "destination": "365303072",
+    "distance_m": 4.501681745658373,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:3:f",
+    "origin": "365303072",
+    "destination": "5478741173",
+    "distance_m": 5.993455594840579,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:4:f",
+    "origin": "5478741173",
+    "destination": "365303073",
+    "distance_m": 13.149314647889279,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:5:f",
+    "origin": "365303073",
+    "destination": "365303074",
+    "distance_m": 29.9673624935696,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:6:f",
+    "origin": "365303074",
+    "destination": "8660827908",
+    "distance_m": 25.179497448279875,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:7:f",
+    "origin": "8660827908",
+    "destination": "365303075",
+    "distance_m": 15.949640578012946,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:8:f",
+    "origin": "365303075",
+    "destination": "8660827909",
+    "distance_m": 11.734512955902035,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739033:9:f",
+    "origin": "8660827909",
+    "destination": "10797357322",
+    "distance_m": 38.70676847201841,
+    "osm_way_id": "569739033",
+    "name": "Carrera 51",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:0:f",
+    "origin": "6983048285",
+    "destination": "10700461911",
+    "distance_m": 11.53519684963134,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:10:f",
+    "origin": "1436551705",
+    "destination": "8660827912",
+    "distance_m": 21.142166897095397,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:11:f",
+    "origin": "8660827912",
+    "destination": "8660831044",
+    "distance_m": 4.672192759474775,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:12:f",
+    "origin": "8660831044",
+    "destination": "5914715605",
+    "distance_m": 4.307846625064029,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:1:f",
+    "origin": "10700461911",
+    "destination": "358028385",
+    "distance_m": 9.936376917438674,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:2:f",
+    "origin": "358028385",
+    "destination": "8660831041",
+    "distance_m": 8.076117412102045,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:3:f",
+    "origin": "8660831041",
+    "destination": "8660831028",
+    "distance_m": 6.79531416001472,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:4:f",
+    "origin": "8660831028",
+    "destination": "8660831042",
+    "distance_m": 9.41278499544443,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:5:f",
+    "origin": "8660831042",
+    "destination": "358028386",
+    "distance_m": 8.65233580568915,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:6:f",
+    "origin": "358028386",
+    "destination": "5914715604",
+    "distance_m": 8.8655835450402,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:7:f",
+    "origin": "5914715604",
+    "destination": "8660831043",
+    "distance_m": 7.999472614265262,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:8:f",
+    "origin": "8660831043",
+    "destination": "358029500",
+    "distance_m": 7.028575688928617,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569739041:9:f",
+    "origin": "358029500",
+    "destination": "1436551705",
+    "distance_m": 15.91787684307224,
+    "osm_way_id": "569739041",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "569743330:0:f",
+    "origin": "6983048285",
+    "destination": "10700461934",
+    "distance_m": 10.410374719763558,
+    "osm_way_id": "569743330",
+    "name": "Carrera 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "569743330:1:f",
+    "origin": "10700461934",
+    "destination": "9687310834",
+    "distance_m": 80.54058788436352,
+    "osm_way_id": "569743330",
+    "name": "Carrera 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "569743330:2:f",
+    "origin": "9687310834",
+    "destination": "1430585578",
+    "distance_m": 24.838470770457047,
+    "osm_way_id": "569743330",
+    "name": "Carrera 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "569743330:3:f",
+    "origin": "1430585578",
+    "destination": "8660827905",
+    "distance_m": 12.7993465979041,
+    "osm_way_id": "569743330",
+    "name": "Carrera 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "569743330:4:f",
+    "origin": "8660827905",
+    "destination": "8660827906",
+    "distance_m": 25.991106359841915,
+    "osm_way_id": "569743330",
+    "name": "Carrera 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "569743330:5:f",
+    "origin": "8660827906",
+    "destination": "365308120",
+    "distance_m": 20.687090174340728,
+    "osm_way_id": "569743330",
+    "name": "Carrera 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "578896950:12:f",
+    "origin": "4351304163",
+    "destination": "330610901",
+    "distance_m": 56.73263176053569,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:13:f",
+    "origin": "330610901",
+    "destination": "10735878432",
+    "distance_m": 84.40380659324249,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:14:f",
+    "origin": "10735878432",
+    "destination": "330611693",
+    "distance_m": 3.9703639023687716,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:15:f",
+    "origin": "330611693",
+    "destination": "10735878434",
+    "distance_m": 3.4536917513361733,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:16:f",
+    "origin": "10735878434",
+    "destination": "8644401595",
+    "distance_m": 67.60899678655079,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:17:f",
+    "origin": "8644401595",
+    "destination": "2776138108",
+    "distance_m": 4.982551625577848,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:18:f",
+    "origin": "2776138108",
+    "destination": "8644401594",
+    "distance_m": 4.794855740429568,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:19:f",
+    "origin": "8644401594",
+    "destination": "8644401593",
+    "distance_m": 5.176520800974264,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:20:f",
+    "origin": "8644401593",
+    "destination": "330611923",
+    "distance_m": 7.851002955959445,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:21:f",
+    "origin": "330611923",
+    "destination": "10311382890",
+    "distance_m": 10.718389321838355,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:22:f",
+    "origin": "10311382890",
+    "destination": "8644401591",
+    "distance_m": 3.2016293017394144,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:23:f",
+    "origin": "8644401591",
+    "destination": "8644401590",
+    "distance_m": 3.88408258441698,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:24:f",
+    "origin": "8644401590",
+    "destination": "8644401592",
+    "distance_m": 6.063695172378459,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:25:f",
+    "origin": "8644401592",
+    "destination": "8644401589",
+    "distance_m": 5.4354839590444515,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:26:f",
+    "origin": "8644401589",
+    "destination": "11448912498",
+    "distance_m": 20.632318325358813,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:27:f",
+    "origin": "11448912498",
+    "destination": "8644401604",
+    "distance_m": 20.484959546016842,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:28:f",
+    "origin": "8644401604",
+    "destination": "8644401605",
+    "distance_m": 4.7875063461072545,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:29:f",
+    "origin": "8644401605",
+    "destination": "8660831050",
+    "distance_m": 8.358295846549902,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:30:f",
+    "origin": "8660831050",
+    "destination": "11448912497",
+    "distance_m": 8.189794955112175,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:31:f",
+    "origin": "11448912497",
+    "destination": "358013908",
+    "distance_m": 4.855040004329372,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:32:f",
+    "origin": "358013908",
+    "destination": "8644401609",
+    "distance_m": 4.0516473970759215,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:33:f",
+    "origin": "8644401609",
+    "destination": "8644401611",
+    "distance_m": 4.902889611205431,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:34:f",
+    "origin": "8644401611",
+    "destination": "8660831051",
+    "distance_m": 4.518370760236663,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:35:f",
+    "origin": "8660831051",
+    "destination": "1430585565",
+    "distance_m": 36.24592533566077,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:36:f",
+    "origin": "1430585565",
+    "destination": "8660831032",
+    "distance_m": 24.318132343926074,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578896950:37:f",
+    "origin": "8660831032",
+    "destination": "6983048285",
+    "distance_m": 10.776818187818849,
+    "osm_way_id": "578896950",
+    "name": "Carrera 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578914903:0:f",
+    "origin": "13948112309",
+    "destination": "13944126006",
+    "distance_m": 0.9338544355260863,
+    "osm_way_id": "578914903",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "578914903:1:f",
+    "origin": "13944126006",
+    "destination": "8644394442",
+    "distance_m": 5.592661152754192,
+    "osm_way_id": "578914903",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "578914903:2:f",
+    "origin": "8644394442",
+    "destination": "13944126002",
+    "distance_m": 34.311370782918836,
+    "osm_way_id": "578914903",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "578937730:0:f",
+    "origin": "9854564267",
+    "destination": "8644401631",
+    "distance_m": 0.9790716225977086,
+    "osm_way_id": "578937730",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "578937730:1:f",
+    "origin": "8644401631",
+    "destination": "8644401630",
+    "distance_m": 4.110255902072586,
+    "osm_way_id": "578937730",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "578937730:2:f",
+    "origin": "8644401630",
+    "destination": "9854564266",
+    "distance_m": 1.1381130681174398,
+    "osm_way_id": "578937730",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "578937730:3:f",
+    "origin": "9854564266",
+    "destination": "8644401668",
+    "distance_m": 1.282446761583897,
+    "osm_way_id": "578937730",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "578937730:4:f",
+    "origin": "8644401668",
+    "destination": "365307279",
+    "distance_m": 94.61523093080653,
+    "osm_way_id": "578937730",
+    "name": "Carrera 47",
+    "highway": "residential"
+  },
+  {
+    "id": "578956943:0:f",
+    "origin": "309857490",
+    "destination": "8644401600",
+    "distance_m": 13.940841085831945,
+    "osm_way_id": "578956943",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578956943:1:f",
+    "origin": "8644401600",
+    "destination": "330611925",
+    "distance_m": 12.233838022400255,
+    "osm_way_id": "578956943",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578956943:2:f",
+    "origin": "330611925",
+    "destination": "8644401599",
+    "distance_m": 34.97324767010573,
+    "osm_way_id": "578956943",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578956943:3:f",
+    "origin": "8644401599",
+    "destination": "330611924",
+    "distance_m": 9.359061293683842,
+    "osm_way_id": "578956943",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578956943:4:f",
+    "origin": "330611924",
+    "destination": "8644401598",
+    "distance_m": 11.180405973152908,
+    "osm_way_id": "578956943",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578956943:5:f",
+    "origin": "8644401598",
+    "destination": "8644401596",
+    "distance_m": 8.614746642746196,
+    "osm_way_id": "578956943",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578956943:6:f",
+    "origin": "8644401596",
+    "destination": "10311382893",
+    "distance_m": 1.8311563256529664,
+    "osm_way_id": "578956943",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578956943:7:f",
+    "origin": "10311382893",
+    "destination": "8644401597",
+    "distance_m": 7.838478542694699,
+    "osm_way_id": "578956943",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578956943:8:f",
+    "origin": "8644401597",
+    "destination": "330611923",
+    "distance_m": 9.422175250338212,
+    "osm_way_id": "578956943",
+    "name": "Diagonal 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "578956944:0:f",
+    "origin": "5545773727",
+    "destination": "8644401586",
+    "distance_m": 4.786196133457966,
+    "osm_way_id": "578956944",
+    "name": "",
+    "highway": "secondary_link"
+  },
+  {
+    "id": "578956944:1:f",
+    "origin": "8644401586",
+    "destination": "5545773726",
+    "distance_m": 3.605158623654266,
+    "osm_way_id": "578956944",
+    "name": "",
+    "highway": "secondary_link"
+  },
+  {
+    "id": "578956944:2:f",
+    "origin": "5545773726",
+    "destination": "5545773725",
+    "distance_m": 3.5643578422940183,
+    "osm_way_id": "578956944",
+    "name": "",
+    "highway": "secondary_link"
+  },
+  {
+    "id": "578956944:3:f",
+    "origin": "5545773725",
+    "destination": "8644401587",
+    "distance_m": 2.5173872820094125,
+    "osm_way_id": "578956944",
+    "name": "",
+    "highway": "secondary_link"
+  },
+  {
+    "id": "578956944:4:f",
+    "origin": "8644401587",
+    "destination": "5545773724",
+    "distance_m": 2.9170232496676904,
+    "osm_way_id": "578956944",
+    "name": "",
+    "highway": "secondary_link"
+  },
+  {
+    "id": "578956944:5:f",
+    "origin": "5545773724",
+    "destination": "5545773723",
+    "distance_m": 2.811430647922854,
+    "osm_way_id": "578956944",
+    "name": "",
+    "highway": "secondary_link"
+  },
+  {
+    "id": "578956944:6:f",
+    "origin": "5545773723",
+    "destination": "309857490",
+    "distance_m": 10.444587544673299,
+    "osm_way_id": "578956944",
+    "name": "",
+    "highway": "secondary_link"
+  },
+  {
+    "id": "578977056:0:f",
+    "origin": "5545901160",
+    "destination": "10701834603",
+    "distance_m": 9.759405086332213,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578977056:1:f",
+    "origin": "10701834603",
+    "destination": "368790200",
+    "distance_m": 16.105539891993654,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578977056:2:f",
+    "origin": "368790200",
+    "destination": "368789524",
+    "distance_m": 4.9235721740964955,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578977056:3:f",
+    "origin": "368789524",
+    "destination": "8660827882",
+    "distance_m": 21.68278807222302,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578977056:4:f",
+    "origin": "8660827882",
+    "destination": "8660827881",
+    "distance_m": 6.294885455713261,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578977056:5:f",
+    "origin": "8660827881",
+    "destination": "8660827883",
+    "distance_m": 7.1840221057077125,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578977056:6:f",
+    "origin": "8660827883",
+    "destination": "368789863",
+    "distance_m": 29.25826053671446,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578977056:7:f",
+    "origin": "368789863",
+    "destination": "316077518",
+    "distance_m": 16.99643580932454,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578977056:8:f",
+    "origin": "316077518",
+    "destination": "5545901138",
+    "distance_m": 8.59175869825302,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578977056:9:f",
+    "origin": "5545901138",
+    "destination": "316077534",
+    "distance_m": 62.031803565236224,
+    "osm_way_id": "578977056",
+    "name": "Calle 53",
+    "highway": "residential"
+  },
+  {
+    "id": "578985816:6:f",
+    "origin": "8660796760",
+    "destination": "9685337408",
+    "distance_m": 8.803049736308306,
+    "osm_way_id": "578985816",
+    "name": "Carrera 51D",
+    "highway": "service"
+  },
+  {
+    "id": "578985816:7:f",
+    "origin": "9685337408",
+    "destination": "5545967997",
+    "distance_m": 16.148457646425708,
+    "osm_way_id": "578985816",
+    "name": "Carrera 51D",
+    "highway": "service"
+  },
+  {
+    "id": "579003111:0:f",
+    "origin": "365303074",
+    "destination": "10797357343",
+    "distance_m": 3.445402982416442,
+    "osm_way_id": "579003111",
+    "name": "Calle 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003111:1:f",
+    "origin": "10797357343",
+    "destination": "6272756642",
+    "distance_m": 43.640709527721405,
+    "osm_way_id": "579003111",
+    "name": "Calle 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003111:2:f",
+    "origin": "6272756642",
+    "destination": "365308120",
+    "distance_m": 69.04687297858636,
+    "osm_way_id": "579003111",
+    "name": "Calle 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003111:3:f",
+    "origin": "365308120",
+    "destination": "8660930944",
+    "distance_m": 44.00374946358454,
+    "osm_way_id": "579003111",
+    "name": "Calle 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003123:0:f",
+    "origin": "5546085750",
+    "destination": "10735878411",
+    "distance_m": 35.523054034616756,
+    "osm_way_id": "579003123",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003123:1:f",
+    "origin": "10735878411",
+    "destination": "316077473",
+    "distance_m": 3.058955996413606,
+    "osm_way_id": "579003123",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003124:0:f",
+    "origin": "316077475",
+    "destination": "5546085750",
+    "distance_m": 60.39959820193041,
+    "osm_way_id": "579003124",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003125:0:f",
+    "origin": "5546085751",
+    "destination": "316077475",
+    "distance_m": 56.614618738327586,
+    "osm_way_id": "579003125",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003126:0:f",
+    "origin": "316077477",
+    "destination": "11179522855",
+    "distance_m": 5.737588763892519,
+    "osm_way_id": "579003126",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003126:1:f",
+    "origin": "11179522855",
+    "destination": "5546085751",
+    "distance_m": 52.461640321541324,
+    "osm_way_id": "579003126",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579003131:0:f",
+    "origin": "5546085753",
+    "destination": "11179522857",
+    "distance_m": 46.479028794553855,
+    "osm_way_id": "579003131",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "579003131:1:f",
+    "origin": "11179522857",
+    "destination": "316076845",
+    "distance_m": 1.8168152958325927,
+    "osm_way_id": "579003131",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "579003135:0:f",
+    "origin": "5546085754",
+    "destination": "13957920180",
+    "distance_m": 38.509954020689,
+    "osm_way_id": "579003135",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "579003135:1:f",
+    "origin": "13957920180",
+    "destination": "316076844",
+    "distance_m": 8.620195205018668,
+    "osm_way_id": "579003135",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "579003138:0:f",
+    "origin": "316076844",
+    "destination": "13957920179",
+    "distance_m": 9.78648992777252,
+    "osm_way_id": "579003138",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "579003138:1:f",
+    "origin": "13957920179",
+    "destination": "5546085753",
+    "distance_m": 57.9782186774417,
+    "osm_way_id": "579003138",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "579003141:0:f",
+    "origin": "309857487",
+    "destination": "10311387526",
+    "distance_m": 7.040124008561738,
+    "osm_way_id": "579003141",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "579003141:1:f",
+    "origin": "10311387526",
+    "destination": "316076842",
+    "distance_m": 61.06605972185311,
+    "osm_way_id": "579003141",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "579003141:2:f",
+    "origin": "316076842",
+    "destination": "9372899636",
+    "distance_m": 51.52308544098086,
+    "osm_way_id": "579003141",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "579003141:3:f",
+    "origin": "9372899636",
+    "destination": "368839748",
+    "distance_m": 6.674337729018027,
+    "osm_way_id": "579003141",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "579003141:4:f",
+    "origin": "368839748",
+    "destination": "10311387529",
+    "distance_m": 4.573571520525325,
+    "osm_way_id": "579003141",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "579003141:5:f",
+    "origin": "10311387529",
+    "destination": "9410962671",
+    "distance_m": 20.816533713702526,
+    "osm_way_id": "579003141",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "579003142:0:f",
+    "origin": "368799657",
+    "destination": "316077526",
+    "distance_m": 16.823050521038397,
+    "osm_way_id": "579003142",
+    "name": "Carrera 55",
+    "highway": "tertiary"
+  },
+  {
+    "id": "579285682:10:f",
+    "origin": "10704700396",
+    "destination": "8660827915",
+    "distance_m": 157.53941274133277,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579285682:11:f",
+    "origin": "8660827915",
+    "destination": "8660827914",
+    "distance_m": 6.00564366107168,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579285682:12:f",
+    "origin": "8660827914",
+    "destination": "8660827916",
+    "distance_m": 4.853540753622942,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579285682:13:f",
+    "origin": "8660827916",
+    "destination": "10700408294",
+    "distance_m": 4.860889534928246,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579285682:14:f",
+    "origin": "10700408294",
+    "destination": "316077507",
+    "distance_m": 4.891038624644037,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579285682:5:f",
+    "origin": "10704763605",
+    "destination": "369112874",
+    "distance_m": 6.728908020726519,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579285682:6:f",
+    "origin": "369112874",
+    "destination": "10704700402",
+    "distance_m": 5.891642908103716,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579285682:7:f",
+    "origin": "10704700402",
+    "destination": "10704700399",
+    "distance_m": 45.97680897708335,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579285682:8:f",
+    "origin": "10704700399",
+    "destination": "369113337",
+    "distance_m": 5.226442827106542,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579285682:9:f",
+    "origin": "369113337",
+    "destination": "10704700396",
+    "distance_m": 5.8130956933725795,
+    "osm_way_id": "579285682",
+    "name": "Carrera 52",
+    "highway": "secondary"
+  },
+  {
+    "id": "579296887:0:f",
+    "origin": "368839760",
+    "destination": "12319141943",
+    "distance_m": 40.02731965898323,
+    "osm_way_id": "579296887",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "579296887:0:r",
+    "origin": "12319141943",
+    "destination": "368839760",
+    "distance_m": 40.02731965898323,
+    "osm_way_id": "579296887",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "579310597:0:f",
+    "origin": "358106124",
+    "destination": "5545901156",
+    "distance_m": 9.524410258298635,
+    "osm_way_id": "579310597",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "579310597:1:f",
+    "origin": "5545901156",
+    "destination": "8660827889",
+    "distance_m": 19.41161106243678,
+    "osm_way_id": "579310597",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "579310597:2:f",
+    "origin": "8660827889",
+    "destination": "8660827884",
+    "distance_m": 11.17187982351729,
+    "osm_way_id": "579310597",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "579310597:3:f",
+    "origin": "8660827884",
+    "destination": "8660827890",
+    "distance_m": 14.68489534779045,
+    "osm_way_id": "579310597",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "579310597:4:f",
+    "origin": "8660827890",
+    "destination": "5545901143",
+    "distance_m": 35.77500346158394,
+    "osm_way_id": "579310597",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "579310597:5:f",
+    "origin": "5545901143",
+    "destination": "12319141941",
+    "distance_m": 16.374656722562626,
+    "osm_way_id": "579310597",
+    "name": "Avenida de Greiff",
+    "highway": "secondary"
+  },
+  {
+    "id": "581270596:0:f",
+    "origin": "309857487",
+    "destination": "10311387536",
+    "distance_m": 10.061002693995427,
+    "osm_way_id": "581270596",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "581270596:1:f",
+    "origin": "10311387536",
+    "destination": "10735878417",
+    "distance_m": 123.86128914985444,
+    "osm_way_id": "581270596",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "581270596:2:f",
+    "origin": "10735878417",
+    "destination": "11433084312",
+    "distance_m": 2.3400353545419383,
+    "osm_way_id": "581270596",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "581270596:3:f",
+    "origin": "11433084312",
+    "destination": "315063961",
+    "distance_m": 6.456317521570428,
+    "osm_way_id": "581270596",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "581270596:4:f",
+    "origin": "315063961",
+    "destination": "11433084310",
+    "distance_m": 7.013076427470244,
+    "osm_way_id": "581270596",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "581270596:5:f",
+    "origin": "11433084310",
+    "destination": "10735878409",
+    "distance_m": 3.0572440060401207,
+    "osm_way_id": "581270596",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "581270596:6:f",
+    "origin": "10735878409",
+    "destination": "9378006412",
+    "distance_m": 46.40395077284376,
+    "osm_way_id": "581270596",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "581270596:7:f",
+    "origin": "9378006412",
+    "destination": "5546085754",
+    "distance_m": 4.475210314987763,
+    "osm_way_id": "581270596",
+    "name": "Carrera 55",
+    "highway": "residential"
+  },
+  {
+    "id": "669793858:0:f",
+    "origin": "6272756641",
+    "destination": "6272756642",
+    "distance_m": 88.44075058544297,
+    "osm_way_id": "669793858",
+    "name": "Carrera 50A",
+    "highway": "residential"
+  },
+  {
+    "id": "669793858:0:r",
+    "origin": "6272756642",
+    "destination": "6272756641",
+    "distance_m": 88.44075058544297,
+    "osm_way_id": "669793858",
+    "name": "Carrera 50A",
+    "highway": "residential"
+  },
+  {
+    "id": "790885562:10:f",
+    "origin": "6272756641",
+    "destination": "10797357342",
+    "distance_m": 65.58126659434527,
+    "osm_way_id": "790885562",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "790885562:11:f",
+    "origin": "10797357342",
+    "destination": "365303076",
+    "distance_m": 4.4727673284256015,
+    "osm_way_id": "790885562",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "790885562:9:f",
+    "origin": "365308121",
+    "destination": "6272756641",
+    "distance_m": 70.6790468959487,
+    "osm_way_id": "790885562",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "934504287:0:f",
+    "origin": "8660827870",
+    "destination": "8660827869",
+    "distance_m": 5.312611118441576,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:10:f",
+    "origin": "368795580",
+    "destination": "368795583",
+    "distance_m": 13.86127252023705,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:11:f",
+    "origin": "368795583",
+    "destination": "368795588",
+    "distance_m": 16.640912409584914,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:12:f",
+    "origin": "368795588",
+    "destination": "368795591",
+    "distance_m": 17.947399669615013,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:1:f",
+    "origin": "8660827869",
+    "destination": "8660827868",
+    "distance_m": 3.132909607579103,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:2:f",
+    "origin": "8660827868",
+    "destination": "8660827867",
+    "distance_m": 6.2211939662066085,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:3:f",
+    "origin": "8660827867",
+    "destination": "368793764",
+    "distance_m": 13.580968721618964,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:4:f",
+    "origin": "368793764",
+    "destination": "8660827864",
+    "distance_m": 11.67339159494273,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:5:f",
+    "origin": "8660827864",
+    "destination": "368795564",
+    "distance_m": 14.910846942279425,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:6:f",
+    "origin": "368795564",
+    "destination": "368795567",
+    "distance_m": 10.808959484917116,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:7:f",
+    "origin": "368795567",
+    "destination": "368795569",
+    "distance_m": 8.689348717859865,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:8:f",
+    "origin": "368795569",
+    "destination": "368795576",
+    "distance_m": 15.302853902820699,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "934504287:9:f",
+    "origin": "368795576",
+    "destination": "368795580",
+    "distance_m": 17.481071229678943,
+    "osm_way_id": "934504287",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "952257704:0:f",
+    "origin": "8813914224",
+    "destination": "8813914221",
+    "distance_m": 2.8056010783609078,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:10:f",
+    "origin": "8813901316",
+    "destination": "8813901315",
+    "distance_m": 2.5230287417645556,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:11:f",
+    "origin": "8813901315",
+    "destination": "8813901314",
+    "distance_m": 12.208631466932587,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:12:f",
+    "origin": "8813901314",
+    "destination": "8813901313",
+    "distance_m": 2.0938412556659336,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:13:f",
+    "origin": "8813901313",
+    "destination": "8813901312",
+    "distance_m": 2.253661632786249,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:14:f",
+    "origin": "8813901312",
+    "destination": "8813901311",
+    "distance_m": 44.16294912872193,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:15:f",
+    "origin": "8813901311",
+    "destination": "8813901310",
+    "distance_m": 15.899634740502005,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:16:f",
+    "origin": "8813901310",
+    "destination": "8813901309",
+    "distance_m": 1.7575028520768494,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:17:f",
+    "origin": "8813901309",
+    "destination": "8813901303",
+    "distance_m": 1.0261615600970106,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:18:f",
+    "origin": "8813901303",
+    "destination": "8813901308",
+    "distance_m": 1.870786983002302,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:19:f",
+    "origin": "8813901308",
+    "destination": "8813901306",
+    "distance_m": 1.9411100096032519,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:1:f",
+    "origin": "8813914221",
+    "destination": "8813914223",
+    "distance_m": 2.809104318396911,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:20:f",
+    "origin": "8813901306",
+    "destination": "8813901307",
+    "distance_m": 1.9435526665836926,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:21:f",
+    "origin": "8813901307",
+    "destination": "8813901304",
+    "distance_m": 3.8671882470704353,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:22:f",
+    "origin": "8813901304",
+    "destination": "8813901305",
+    "distance_m": 3.8553736889149137,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:2:f",
+    "origin": "8813914223",
+    "destination": "8813914220",
+    "distance_m": 2.718888794080285,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:3:f",
+    "origin": "8813914220",
+    "destination": "8813914222",
+    "distance_m": 2.7189119279479512,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:4:f",
+    "origin": "8813914222",
+    "destination": "8813914218",
+    "distance_m": 3.05747434539663,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:5:f",
+    "origin": "8813914218",
+    "destination": "8813901302",
+    "distance_m": 0.9116985421132613,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:6:f",
+    "origin": "8813901302",
+    "destination": "8813914219",
+    "distance_m": 2.135154487382673,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:7:f",
+    "origin": "8813914219",
+    "destination": "9372682969",
+    "distance_m": 1.8717367706899095,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:8:f",
+    "origin": "9372682969",
+    "destination": "8813914217",
+    "distance_m": 60.7281632823522,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "952257704:9:f",
+    "origin": "8813914217",
+    "destination": "8813901316",
+    "distance_m": 2.3957330222748325,
+    "osm_way_id": "952257704",
+    "name": "",
+    "highway": "service"
+  },
+  {
+    "id": "98724782:0:f",
+    "origin": "368839748",
+    "destination": "10311387543",
+    "distance_m": 7.73850770183562,
+    "osm_way_id": "98724782",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "98724782:1:f",
+    "origin": "10311387543",
+    "destination": "368827372",
+    "distance_m": 98.25661817946379,
+    "osm_way_id": "98724782",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "98724782:2:f",
+    "origin": "368827372",
+    "destination": "13951994761",
+    "distance_m": 18.01780429134517,
+    "osm_way_id": "98724782",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "98724782:3:f",
+    "origin": "13951994761",
+    "destination": "13951994755",
+    "distance_m": 13.019461241934035,
+    "osm_way_id": "98724782",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "98724782:4:f",
+    "origin": "13951994755",
+    "destination": "368839760",
+    "distance_m": 75.04465309982008,
+    "osm_way_id": "98724782",
+    "name": "Carrera 56",
+    "highway": "residential"
+  },
+  {
+    "id": "98724798:0:f",
+    "origin": "365303743",
+    "destination": "10797357336",
+    "distance_m": 3.6474907765606064,
+    "osm_way_id": "98724798",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "98724798:1:f",
+    "origin": "10797357336",
+    "destination": "8660796765",
+    "distance_m": 71.37488313404081,
+    "osm_way_id": "98724798",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "98724798:2:f",
+    "origin": "8660796765",
+    "destination": "8660796766",
+    "distance_m": 9.932989048182211,
+    "osm_way_id": "98724798",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "98724798:3:f",
+    "origin": "8660796766",
+    "destination": "10704763618",
+    "distance_m": 2.331799055792392,
+    "osm_way_id": "98724798",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "98724798:4:f",
+    "origin": "10704763618",
+    "destination": "369113337",
+    "distance_m": 4.538166787959321,
+    "osm_way_id": "98724798",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "98724798:5:f",
+    "origin": "369113337",
+    "destination": "6917050950",
+    "distance_m": 8.011615805689916,
+    "osm_way_id": "98724798",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "98724798:6:f",
+    "origin": "6917050950",
+    "destination": "368792094",
+    "distance_m": 113.09969907427121,
+    "osm_way_id": "98724798",
+    "name": "Calle 54",
+    "highway": "residential"
+  },
+  {
+    "id": "98724807:1:f",
+    "origin": "13952114592",
+    "destination": "368776784",
+    "distance_m": 9.715566640653053,
+    "osm_way_id": "98724807",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724807:2:f",
+    "origin": "368776784",
+    "destination": "8665635449",
+    "distance_m": 14.263234889902597,
+    "osm_way_id": "98724807",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724807:3:f",
+    "origin": "8665635449",
+    "destination": "368777338",
+    "distance_m": 7.215261390348153,
+    "osm_way_id": "98724807",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724807:4:f",
+    "origin": "368777338",
+    "destination": "8665635450",
+    "distance_m": 6.214429673194486,
+    "osm_way_id": "98724807",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724807:5:f",
+    "origin": "8665635450",
+    "destination": "368777340",
+    "distance_m": 4.4735099670512914,
+    "osm_way_id": "98724807",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724807:6:f",
+    "origin": "368777340",
+    "destination": "9408617437",
+    "distance_m": 2.3785708334495634,
+    "osm_way_id": "98724807",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724807:7:f",
+    "origin": "9408617437",
+    "destination": "368777344",
+    "distance_m": 5.156139153698133,
+    "osm_way_id": "98724807",
+    "name": "Calle 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724813:3:f",
+    "origin": "368836814",
+    "destination": "9372899632",
+    "distance_m": 19.01187544455755,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724813:3:r",
+    "origin": "9372899632",
+    "destination": "368836814",
+    "distance_m": 19.01187544455755,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724813:4:f",
+    "origin": "9372899632",
+    "destination": "368836815",
+    "distance_m": 16.917917909225384,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724813:4:r",
+    "origin": "368836815",
+    "destination": "9372899632",
+    "distance_m": 16.917917909225384,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724813:5:f",
+    "origin": "368836815",
+    "destination": "9685156932",
+    "distance_m": 8.710097293617327,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724813:5:r",
+    "origin": "9685156932",
+    "destination": "368836815",
+    "distance_m": 8.710097293617327,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724813:6:f",
+    "origin": "9685156932",
+    "destination": "368836816",
+    "distance_m": 8.07925763099762,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724813:6:r",
+    "origin": "368836816",
+    "destination": "9685156932",
+    "distance_m": 8.07925763099762,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724813:7:f",
+    "origin": "368836816",
+    "destination": "368836818",
+    "distance_m": 7.423830788678728,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724813:7:r",
+    "origin": "368836818",
+    "destination": "368836816",
+    "distance_m": 7.423830788678728,
+    "osm_way_id": "98724813",
+    "name": "Carrera 56A",
+    "highway": "residential"
+  },
+  {
+    "id": "98724826:0:f",
+    "origin": "316077473",
+    "destination": "10735878419",
+    "distance_m": 3.5156781006837767,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:10:f",
+    "origin": "13951994749",
+    "destination": "8813914224",
+    "distance_m": 33.124733269045294,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:11:f",
+    "origin": "8813914224",
+    "destination": "5545901159",
+    "distance_m": 11.363292975696083,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:12:f",
+    "origin": "5545901159",
+    "destination": "8660827888",
+    "distance_m": 10.436239432146388,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:13:f",
+    "origin": "8660827888",
+    "destination": "8813901305",
+    "distance_m": 6.518110488699382,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:14:f",
+    "origin": "8813901305",
+    "destination": "9415958711",
+    "distance_m": 3.99305547811569,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:15:f",
+    "origin": "9415958711",
+    "destination": "8660827887",
+    "distance_m": 7.519152381483729,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:16:f",
+    "origin": "8660827887",
+    "destination": "14298011857",
+    "distance_m": 3.816697150068552,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:17:f",
+    "origin": "14298011857",
+    "destination": "5545901160",
+    "distance_m": 5.283165598934807,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:18:f",
+    "origin": "5545901160",
+    "destination": "9408552801",
+    "distance_m": 9.17775514385452,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:19:f",
+    "origin": "9408552801",
+    "destination": "358106124",
+    "distance_m": 5.806161558919931,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:1:f",
+    "origin": "10735878419",
+    "destination": "10311387533",
+    "distance_m": 109.22755883686894,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:20:f",
+    "origin": "358106124",
+    "destination": "10701834601",
+    "distance_m": 9.988278787070932,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:21:f",
+    "origin": "10701834601",
+    "destination": "5545901152",
+    "distance_m": 2.035350243376171,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:22:f",
+    "origin": "5545901152",
+    "destination": "368792091",
+    "distance_m": 8.907037340083225,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:23:f",
+    "origin": "368792091",
+    "destination": "9415958710",
+    "distance_m": 6.769161041028025,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:24:f",
+    "origin": "9415958710",
+    "destination": "9415958709",
+    "distance_m": 129.67856124683217,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:25:f",
+    "origin": "9415958709",
+    "destination": "368792094",
+    "distance_m": 8.052334286351725,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:26:f",
+    "origin": "368792094",
+    "destination": "13952114580",
+    "distance_m": 13.841539154696527,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:27:f",
+    "origin": "13952114580",
+    "destination": "368792098",
+    "distance_m": 39.981835758859475,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:2:f",
+    "origin": "10311387533",
+    "destination": "316077472",
+    "distance_m": 3.928495420779701,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:3:f",
+    "origin": "316077472",
+    "destination": "10311387540",
+    "distance_m": 9.993825675270001,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:4:f",
+    "origin": "10311387540",
+    "destination": "13952114589",
+    "distance_m": 64.98993583653106,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:5:f",
+    "origin": "13952114589",
+    "destination": "316077509",
+    "distance_m": 10.004439519136946,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:6:f",
+    "origin": "316077509",
+    "destination": "13952114587",
+    "distance_m": 8.372374929285371,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:7:f",
+    "origin": "13952114587",
+    "destination": "13951994748",
+    "distance_m": 78.7930872062504,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:8:f",
+    "origin": "13951994748",
+    "destination": "316077510",
+    "distance_m": 10.108784825895592,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724826:9:f",
+    "origin": "316077510",
+    "destination": "13951994749",
+    "distance_m": 10.029704004706078,
+    "osm_way_id": "98724826",
+    "name": "Carrera 53",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724842:0:f",
+    "origin": "368804676",
+    "destination": "10790567032",
+    "distance_m": 7.814763541055134,
+    "osm_way_id": "98724842",
+    "name": "Avenida de Greiff",
+    "highway": "residential"
+  },
+  {
+    "id": "98724858:0:f",
+    "origin": "365303742",
+    "destination": "10797357315",
+    "distance_m": 7.079150417023776,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:10:f",
+    "origin": "8660827862",
+    "destination": "8660827851",
+    "distance_m": 7.4264174702726535,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:11:f",
+    "origin": "8660827851",
+    "destination": "5545901148",
+    "distance_m": 28.430302888810488,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:12:f",
+    "origin": "5545901148",
+    "destination": "8660827895",
+    "distance_m": 14.739408629963819,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:13:f",
+    "origin": "8660827895",
+    "destination": "8660827898",
+    "distance_m": 2.9742387941078143,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:14:f",
+    "origin": "8660827898",
+    "destination": "8660827896",
+    "distance_m": 3.4615919645063653,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:15:f",
+    "origin": "8660827896",
+    "destination": "8660827897",
+    "distance_m": 4.176566245151688,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:16:f",
+    "origin": "8660827897",
+    "destination": "8660827899",
+    "distance_m": 3.880296071587955,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:17:f",
+    "origin": "8660827899",
+    "destination": "10700408296",
+    "distance_m": 1.0357356310958499,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:18:f",
+    "origin": "10700408296",
+    "destination": "358106862",
+    "distance_m": 3.622418397442627,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:1:f",
+    "origin": "10797357315",
+    "destination": "8660796762",
+    "distance_m": 10.872738103105094,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:2:f",
+    "origin": "8660796762",
+    "destination": "8660796763",
+    "distance_m": 21.735096477406582,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:3:f",
+    "origin": "8660796763",
+    "destination": "365303743",
+    "distance_m": 22.576760381375177,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:4:f",
+    "origin": "365303743",
+    "destination": "10797357327",
+    "distance_m": 22.431374387155305,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:5:f",
+    "origin": "10797357327",
+    "destination": "5478741172",
+    "distance_m": 4.8390804568331935,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:6:f",
+    "origin": "5478741172",
+    "destination": "10797357323",
+    "distance_m": 4.794288527102389,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:7:f",
+    "origin": "10797357323",
+    "destination": "365303749",
+    "distance_m": 61.397392664998826,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:8:f",
+    "origin": "365303749",
+    "destination": "8660827850",
+    "distance_m": 8.38272456724415,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724858:9:f",
+    "origin": "8660827850",
+    "destination": "8660827862",
+    "distance_m": 6.082365479298258,
+    "osm_way_id": "98724858",
+    "name": "Carrera 51D",
+    "highway": "secondary"
+  },
+  {
+    "id": "98724893:0:f",
+    "origin": "316077526",
+    "destination": "10790551098",
+    "distance_m": 87.39229329331802,
+    "osm_way_id": "98724893",
+    "name": "Carrera 55",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724893:1:f",
+    "origin": "10790551098",
+    "destination": "316077531",
+    "distance_m": 3.909627701536057,
+    "osm_way_id": "98724893",
+    "name": "Carrera 55",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724893:2:f",
+    "origin": "316077531",
+    "destination": "10311387542",
+    "distance_m": 68.57737877215929,
+    "osm_way_id": "98724893",
+    "name": "Carrera 55",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98724893:3:f",
+    "origin": "10311387542",
+    "destination": "309857487",
+    "distance_m": 7.700845647410735,
+    "osm_way_id": "98724893",
+    "name": "Carrera 55",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98726747:0:f",
+    "origin": "365308120",
+    "destination": "365308121",
+    "distance_m": 88.90319947860117,
+    "osm_way_id": "98726747",
+    "name": "Carrera 50",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731139:0:f",
+    "origin": "358101469",
+    "destination": "7282708263",
+    "distance_m": 5.2464991456018275,
+    "osm_way_id": "98731139",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "98731139:1:f",
+    "origin": "7282708263",
+    "destination": "9375858912",
+    "distance_m": 28.371573034582852,
+    "osm_way_id": "98731139",
+    "name": "Calle 48",
+    "highway": "residential"
+  },
+  {
+    "id": "98731204:0:f",
+    "origin": "315063961",
+    "destination": "11433084309",
+    "distance_m": 6.790534574188361,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:10:f",
+    "origin": "315063962",
+    "destination": "10735878405",
+    "distance_m": 5.231281906843754,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:11:f",
+    "origin": "10735878405",
+    "destination": "5546085749",
+    "distance_m": 98.5762145697915,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:12:f",
+    "origin": "5546085749",
+    "destination": "8644401588",
+    "distance_m": 7.97686166796893,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:13:f",
+    "origin": "8644401588",
+    "destination": "358101472",
+    "distance_m": 5.302159149083717,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:14:f",
+    "origin": "358101472",
+    "destination": "8644394487",
+    "distance_m": 18.139248731115618,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:15:f",
+    "origin": "8644394487",
+    "destination": "10735878426",
+    "distance_m": 68.11105837867481,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:16:f",
+    "origin": "10735878426",
+    "destination": "330611693",
+    "distance_m": 3.4140546113963457,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:17:f",
+    "origin": "330611693",
+    "destination": "10735878429",
+    "distance_m": 3.9901254995982796,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:18:f",
+    "origin": "10735878429",
+    "destination": "5545773727",
+    "distance_m": 64.32085397232247,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:1:f",
+    "origin": "11433084309",
+    "destination": "10735826588",
+    "distance_m": 9.484855799793255,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:2:f",
+    "origin": "10735826588",
+    "destination": "10735826591",
+    "distance_m": 72.62127302591638,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:3:f",
+    "origin": "10735826591",
+    "destination": "316076854",
+    "distance_m": 4.5748255106246285,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:4:f",
+    "origin": "316076854",
+    "destination": "10735826594",
+    "distance_m": 3.7901035730565673,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:5:f",
+    "origin": "10735826594",
+    "destination": "10735826600",
+    "distance_m": 114.64235489129928,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:6:f",
+    "origin": "10735826600",
+    "destination": "316077473",
+    "distance_m": 5.19111788737581,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:7:f",
+    "origin": "316077473",
+    "destination": "10735826597",
+    "distance_m": 3.903477239229206,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:8:f",
+    "origin": "10735826597",
+    "destination": "10735826602",
+    "distance_m": 93.74774996228238,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731204:9:f",
+    "origin": "10735826602",
+    "destination": "315063962",
+    "distance_m": 1.14288436745482,
+    "osm_way_id": "98731204",
+    "name": "Calle 49",
+    "highway": "secondary"
+  },
+  {
+    "id": "98731814:0:f",
+    "origin": "1142182326",
+    "destination": "13948104697",
+    "distance_m": 17.777340836675855,
+    "osm_way_id": "98731814",
+    "name": "Carrera 52A",
+    "highway": "residential"
+  },
+  {
+    "id": "98731835:0:f",
+    "origin": "12319141941",
+    "destination": "9408552797",
+    "distance_m": 5.453165712195329,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:10:f",
+    "origin": "10311387541",
+    "destination": "316076853",
+    "distance_m": 10.815249580642211,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:11:f",
+    "origin": "316076853",
+    "destination": "10311387534",
+    "distance_m": 3.9297817999066633,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:12:f",
+    "origin": "10311387534",
+    "destination": "10735878418",
+    "distance_m": 124.69308314446889,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:13:f",
+    "origin": "10735878418",
+    "destination": "316076854",
+    "distance_m": 3.6557377031179508,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:14:f",
+    "origin": "316076854",
+    "destination": "10735878410",
+    "distance_m": 3.039943825077501,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:15:f",
+    "origin": "10735878410",
+    "destination": "13958371449",
+    "distance_m": 91.75768694714434,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:16:f",
+    "origin": "13958371449",
+    "destination": "316076855",
+    "distance_m": 6.4992086491356105,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:17:f",
+    "origin": "316076855",
+    "destination": "11179522856",
+    "distance_m": 112.97742574353342,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:18:f",
+    "origin": "11179522856",
+    "destination": "316076852",
+    "distance_m": 3.5491252853562396,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:19:f",
+    "origin": "316076852",
+    "destination": "315063407",
+    "distance_m": 91.57525984104534,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:1:f",
+    "origin": "9408552797",
+    "destination": "316077518",
+    "distance_m": 6.108970027253554,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:2:f",
+    "origin": "316077518",
+    "destination": "5545901145",
+    "distance_m": 6.397724339057162,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:3:f",
+    "origin": "5545901145",
+    "destination": "8660827866",
+    "distance_m": 11.514088394672395,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:4:f",
+    "origin": "8660827866",
+    "destination": "13952114579",
+    "distance_m": 61.706587550021794,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:5:f",
+    "origin": "13952114579",
+    "destination": "316077516",
+    "distance_m": 8.84085896884127,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:6:f",
+    "origin": "316077516",
+    "destination": "13952114578",
+    "distance_m": 5.0604640302072665,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:7:f",
+    "origin": "13952114578",
+    "destination": "8660827865",
+    "distance_m": 20.112160188428614,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:8:f",
+    "origin": "8660827865",
+    "destination": "316077514",
+    "distance_m": 67.10889306609552,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731835:9:f",
+    "origin": "316077514",
+    "destination": "10311387541",
+    "distance_m": 68.86657787746638,
+    "osm_way_id": "98731835",
+    "name": "Carrera 54",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731844:4:f",
+    "origin": "316076845",
+    "destination": "316076852",
+    "distance_m": 103.38981273863303,
+    "osm_way_id": "98731844",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731844:5:f",
+    "origin": "316076852",
+    "destination": "4944768483",
+    "distance_m": 50.11533255367861,
+    "osm_way_id": "98731844",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731844:6:f",
+    "origin": "4944768483",
+    "destination": "316077477",
+    "distance_m": 78.03311185320732,
+    "osm_way_id": "98731844",
+    "name": "Calle 47",
+    "highway": "tertiary"
+  },
+  {
+    "id": "98731854:4:f",
+    "origin": "13957920175",
+    "destination": "13957920167",
+    "distance_m": 8.350314620623804,
+    "osm_way_id": "98731854",
+    "name": "Avenida Amador - Calle 45",
+    "highway": "tertiary"
+  },
+  {
+    "id": "99753808:0:f",
+    "origin": "7282708257",
+    "destination": "8660831049",
+    "distance_m": 19.275773997832573,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:10:f",
+    "origin": "10311387514",
+    "destination": "309857488",
+    "distance_m": 30.026474696577367,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:11:f",
+    "origin": "309857488",
+    "destination": "10311387517",
+    "distance_m": 68.51623670500862,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:12:f",
+    "origin": "10311387517",
+    "destination": "316076853",
+    "distance_m": 6.391554347695363,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:13:f",
+    "origin": "316076853",
+    "destination": "10311387520",
+    "distance_m": 6.529110820062774,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:14:f",
+    "origin": "10311387520",
+    "destination": "9372899641",
+    "distance_m": 22.66000733621314,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:15:f",
+    "origin": "9372899641",
+    "destination": "10311387523",
+    "distance_m": 52.73181445582619,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:16:f",
+    "origin": "10311387523",
+    "destination": "309857487",
+    "distance_m": 4.054495715068799,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:1:f",
+    "origin": "8660831049",
+    "destination": "8660831046",
+    "distance_m": 76.14549441557561,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:2:f",
+    "origin": "8660831046",
+    "destination": "10311382905",
+    "distance_m": 8.592918791474743,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:3:f",
+    "origin": "10311382905",
+    "destination": "309857489",
+    "distance_m": 8.246564093358987,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:4:f",
+    "origin": "309857489",
+    "destination": "10311382908",
+    "distance_m": 6.118892908632571,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:5:f",
+    "origin": "10311382908",
+    "destination": "8660831047",
+    "distance_m": 11.004910460205917,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:6:f",
+    "origin": "8660831047",
+    "destination": "8660831048",
+    "distance_m": 55.3422538910439,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:7:f",
+    "origin": "8660831048",
+    "destination": "10311387511",
+    "distance_m": 18.124910305248797,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:8:f",
+    "origin": "10311387511",
+    "destination": "316077472",
+    "distance_m": 7.454068097744166,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  },
+  {
+    "id": "99753808:9:f",
+    "origin": "316077472",
+    "destination": "10311387514",
+    "distance_m": 13.463376188219948,
+    "osm_way_id": "99753808",
+    "name": "Calle 50",
+    "highway": "secondary"
+  }
+]

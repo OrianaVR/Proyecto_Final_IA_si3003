@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "nodes": 696,
+  "directed_edges": 858,
+  "test_pairs": 10,
+  "corpus_documents": 4,
+  "corpus_records": 23,
+  "distance_min_m": 0.5259012327276993,
+  "distance_max_m": 157.53941274133277,
+  "distance_mean_m": 18.962035842454572,
+  "directed_edges_by_highway": {
+    "residential": 229,
+    "secondary": 246,
+    "secondary_link": 9,
+    "service": 227,
+    "tertiary": 147
+  },
+  "note": "Validación de datos del bloque 1. No evalúa A*, Dijkstra, LLM ni dashboard."
+}

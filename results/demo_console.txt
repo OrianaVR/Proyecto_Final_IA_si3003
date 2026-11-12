@@ -1,0 +1,6 @@
+Grafo local: 696 nodos y 858 aristas
+Par válido: {'id': 'pair_01', 'origin': '10311382890', 'destination': '10735878410'}
+Nodo de origen: Node(id='10311382890', latitude=6.2495397, longitude=-75.5679493)
+Vecinos salientes:
+8644401591 3.2 metros Carrera 50
+El cálculo de la ruta óptima corresponde al bloque 2 de Wendy.
