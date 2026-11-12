@@ -1,4 +1,4 @@
-"""Módulo de planificación de rutas y algoritmos de búsqueda para el Bloque 2 (Wendy).
+"""Módulo de planificación de rutas y algoritmos de búsqueda
 
 Implementa los algoritmos clásicos de camino más corto:
 - Dijkstra (búsqueda de costo uniforme con cola de prioridad)
