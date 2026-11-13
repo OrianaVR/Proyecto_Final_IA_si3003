@@ -5,12 +5,6 @@ generativa que usó y para qué, conforme al pacto pedagógico. Cada declaració
 
 ## 1. Isabella: datos y corpus
 
-> **PENDIENTE.** Isabella debe aportar `docs/ia_isabella.md` (herramienta(s) de IA usada(s), propósito, qué
-> verificó personalmente). Al momento de cerrar este documento no existe en ninguna rama del repositorio.
-
-
-## 1. Isabella: datos y corpus
-
 **Herramienta:** ChatGPT con Codex, como asistente de explicación, programación y documentación.
 
 **Para qué lo usé:**
