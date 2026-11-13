@@ -1,0 +1,60 @@
+{
+  "weak_component_sizes": [
+    694,
+    2
+  ],
+  "weak_component_count": 2,
+  "nodes_without_outgoing_edges": 14,
+  "reachability_by_test_origin": [
+    {
+      "pair_id": "pair_01",
+      "origin": "10311382890",
+      "reachable_nodes_including_origin": 652
+    },
+    {
+      "pair_id": "pair_02",
+      "origin": "10735878419",
+      "reachable_nodes_including_origin": 652
+    },
+    {
+      "pair_id": "pair_03",
+      "origin": "13116149839",
+      "reachable_nodes_including_origin": 652
+    },
+    {
+      "pair_id": "pair_04",
+      "origin": "13957920179",
+      "reachable_nodes_including_origin": 652
+    },
+    {
+      "pair_id": "pair_05",
+      "origin": "358028386",
+      "reachable_nodes_including_origin": 652
+    },
+    {
+      "pair_id": "pair_06",
+      "origin": "368836818",
+      "reachable_nodes_including_origin": 652
+    },
+    {
+      "pair_id": "pair_07",
+      "origin": "8644394443",
+      "reachable_nodes_including_origin": 652
+    },
+    {
+      "pair_id": "pair_08",
+      "origin": "8660827870",
+      "reachable_nodes_including_origin": 652
+    },
+    {
+      "pair_id": "pair_09",
+      "origin": "8665635449",
+      "reachable_nodes_including_origin": 657
+    },
+    {
+      "pair_id": "pair_10",
+      "origin": "9378006404",
+      "reachable_nodes_including_origin": 652
+    }
+  ]
+}

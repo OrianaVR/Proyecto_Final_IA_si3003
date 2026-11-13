@@ -1,0 +1,530 @@
+USUARIOS
+Usuarios Metro de Medellín
+El Metro da la bienvenida al Valle de Aburrá, brindando la oportunidad de integrarse con un medio de transporte eficiente, económico y seguro. Planifica tu viaje y ten en cuenta que el pago en las taquillas, Máquinas de Recarga Automática (MRA) y Puntos de Atención al Cliente (PAC) es en efectivo.
+Tarifas Metro
+Tarifas Arví
+Tarifas rutas integradas
+Horarios
+Horarios para ingreso de Bicicletas
+Reglamentos
+Tarifas Metro de Medellín
+Valor de una tarjeta Cívica Eventual o de la reposición por daño, pérdida o hurto: $12.100.
+Conozca el costo total de su viaje según las integraciones (de la 1 a la 10) entre modos que usted realice y el perfil de su tarjeta Cívica:
+Metro
+A
+B
+Cable
+H
+J
+K
+M
+P
+Tranvía
+T
+Bus
+1
+2
+O
+Rutas alimentadoras cuencas 3 y 6 c. 3 ó 6
+Tarifas Metro de Medellín para las Integraciones 1 a la 4
+Frecuente
+$3.820
+Adulto mayor
+$3.330
+Estudiantil
+$1.600
+Persona con discapacidad (PcD)
+$2.720
+Al portador y eventual
+$4.400
+Tarifas Metro de Medellín para las Integraciones 5 a la 7
+Frecuente
+$4.570
+Adulto mayor
+$4.080
+Estudiantil
+$2.350
+Persona con discapacidad (PcD)
+$3.470
+Al portador y eventual
+$5.150
+Tarifas Metro de Medellín para la Integración 8
+Frecuente
+$5.320
+Adulto mayor
+$4.830
+Estudiantil
+$3.100
+Persona con discapacidad (PcD)
+$4.220
+Al portador y eventual
+$5.900
+Tarifas Metro de Medellín para las Integraciones 9 y 10
+Frecuente
+$6.070
+Adulto mayor
+$5.580
+Estudiantil
+$3.850
+Persona con discapacidad (PcD)*
+$4.970
+Al portador y eventual
+$6.650
+* Persona con discapacidad
+Tarifas Cable Arví*
+Tarifa Estratos 1, 2 y 3 (**)
+$3.900
+Tarifa Nacionales y/o personalizados (***)
+$11.900
+Tarifa Extranjeros y/o General (****)
+$26.700
+*Resolución No. 0008 de 2026 (09 de enero) "Por medio de la cual se fijan tarifas para la prestación del servicio de transporte público de transporte en el Cable Arví y se dictan otras disposiciones".
+**La Tarifa para estratos 1, 2 y 3 Aplica a quienes se encuentren domiciliados en el Valle de Aburrá o en la zona de influencia directa del Parque Arví (Piedras Blancas, Mazo, Piedra Gorda, Barro Blanco y El Placer.) y cumplan los siguientes requisitos: Contar con factura digital o física de servicios públicos en la que se identifique que sea de estrato 1, 2 o 3 en el Área Metropolitana Valle de Aburrá o en la zona de influencia directa del Parque Arví. Solo podrán ingresar hasta 5 personas con la misma factura, cuya vigencia debe ser máximo 30 días. Sólo será válida una factura al día en cada punto de venta de línea L Tarjeta cívica personalizada / APP Cívica  Documento de identidad (cédula, cédula de extranjería, registro civil de nacimiento o tarjeta de identidad)
+*** La tarifa para nacionales y/o o personalizados aplica para los usuarios nacionales, nacionalizados o con Cívica personalizada.Presentar documento de identidad (cédula, cédula de extranjería, registro civil o tarjeta de identidad) en la taquilla del cable Arví.
+****Tarifa extranjeros y/o general(Tarjeta Al Portador y Eventual)
+Tarifas rutas integradas
+Tenga en cuenta las nuevas tarifas para los recorridos integrados, según lo establecido por el Área Metropolitana. Aplica únicamente la tarjeta Cívica Personal.
+Barbosa
+Zona Barbosa - Bello
+Empresa Barbosa Porcesito y Transmeba - Bello
+Tarifa plena:
+5050
+Tarifa integrada:
+5890
+Barbosa Porcesito y Transmeba - Medellín
+Tarifa plena:
+5350
+Tarifa integrada:
+7580
+Girardota
+Zona Girardota - Bello
+Expreso Girardota bus
+Tarifa plena:
+4050
+Tarifa integrada:
+5040
+Expreso Girardota micro
+Tarifa plena:
+4050
+Tarifa integrada:
+5390
+Zona Girardota - Medellín
+Expreso Girardota bus y micro
+Tarifa plena:
+4400
+Tarifa integrada:
+6630
+Copacabana
+Zona Copacabana - Bello
+Coonatra
+Tarifa plena:
+3900
+Tarifa integrada:
+4740
+Zona Copacabana - Medellín
+Coonatra
+Tarifa plena:
+3900
+Tarifa integrada:
+6130
+Bello
+Zona Bello
+Bellanita - Bello
+Tarifa plena:
+3000
+Tarifa integrada:
+4715
+Hatoviejo - Bello
+Tarifa plena:
+3000
+Tarifa integrada:
+4715
+Bellanita - Medellín
+Tarifa plena:
+3900
+Tarifa integrada:
+6130
+Hatoviejo - Medellín
+Tarifa plena:
+3900
+Tarifa integrada:
+6130
+Zona San Félix
+Bellanita
+Tarifa plena:
+5800
+Tarifa integrada:
+6780
+Zona París
+Hatoviejo - Bello
+Tarifa plena:
+3500
+Tarifa integrada:
+5330
+Hatoviejo - Medellín
+Tarifa plena:
+3800
+Tarifa integrada:
+6030
+Medellín
+Zona Medellín
+Autobuses el Poblado
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Tax Maya
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Cootransblan
+Tarifa plena:
+3000
+Tarifa integrada:
+4715
+Palenque Robledo Bus
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Palenque Robledo Micro
+Tarifa plena:
+3900
+Tarifa integrada:
+4715
+Transportes Medellín Castilla
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Conaltracop
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Rápido San Cristóbal
+Tarifa plena:
+3100
+Tarifa integrada:
+4715
+Translamaya bus
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Translamaya micro
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Circular Coonatra
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Cootrasana bus
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Cootransvi
+Tarifa plena:
+3800
+Tarifa integrada:
+Transaranjuez
+Tarifa plena:
+3800
+Tarifa integrada:
+Zona La América
+Conducciones América
+Tarifa plena:
+3000
+Tarifa integrada:
+4715
+Zona Floresta - Calasanz
+Coonatra
+Tarifa plena:
+3000
+Tarifa integrada:
+4715
+Zona Vereda Parque San Cristobal
+Tax Maya
+Tarifa plena:
+3000
+Tarifa integrada:
+4715
+Zona Nuevo Occidente Estadio
+Rápido San Cristóbal
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Zona San Javier
+Metrosan
+Tarifa plena:
+2250
+Tarifa integrada:
+4450
+Zona San Antonio de prado
+Cootrasana
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Envigado
+Zona Envigado
+Cotrasenvi
+Tarifa plena:
+3600
+Tarifa integrada:
+4765
+Santra
+Tarifa plena:
+3600
+Tarifa integrada:
+4765
+Sotrames
+Tarifa plena:
+3700
+Tarifa integrada:
+4765
+Zona Envigado - Arenales
+Sotrames
+Tarifa plena:
+4000
+Tarifa integrada:
+5465
+Zona Envigado - Catedral
+Sotrames
+Tarifa plena:
+4600
+Tarifa integrada:
+5785
+Zona EIA -Palmas
+Sotrames
+Tarifa plena:
+5300
+Tarifa integrada:
+5785
+Sabaneta
+Zona Sabaneta
+Cootrans
+Tarifa plena:
+3600
+Tarifa integrada:
+4765
+Itagüí
+Zona Itagüí
+Rápido La Santa María Bus
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Rápido La Santa María Micro
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Automóviles Itagüí Bus
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Automóviles Itagüí Micro
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Taxiger Bus
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Taxiger Micro
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Transbrasil - Crircular
+Tarifa plena:
+3700
+Tarifa integrada:
+4715
+La Estrella
+Zona Estrella
+Temsa Bus
+Tarifa plena:
+3800
+Tarifa integrada:
+4715
+Temsa micro
+Tarifa plena:
+3900
+Tarifa integrada:
+4715
+Caldas
+Zona Caldas
+Arrieritas
+Tarifa plena:
+4000
+Tarifa integrada:
+4890
+La Valeria
+Tarifa plena:
+4000
+Tarifa integrada:
+4890
+Mocatán
+Tarifa plena:
+4000
+Tarifa integrada:
+4890
+Tarifas rutas intermunicipales
+Estas rutas permiten el uso de la tarjeta Cívica y la App Cívica como medio de pago.
+Aeropuerto José María Córdova
+Rionegro
+Combuses
+Tarifa plena:
+20000
+Tarifa integrada:
+La Ceja
+La Ceja
+La siguiente tarifa de Transunidos aplica pagando con Cívica:
+Tarifa plena:
+13600
+Tarifa integrada:
+0
+El Carmen
+El Carmen
+Flota El Carmen
+Tarifa plena:
+15500
+Tarifa integrada:
+El Retiro
+El Retiro
+Sotraretiro
+Tarifa plena:
+12000
+Tarifa integrada:
+App Cívica
+Ser Cívica
+Lleva la ciudad en tu celular con App Cívica Accede a muchos beneficios y posibilidades de la ciudad; Transporte público, comercios, transacciones y pagos.
+Ir a Cívica
+Recárgala
+Horarios del Metro de Medellín
+El Metro de Medellín presta servicio en los siguientes horarios:
+Lunes a sábado
+A
+B
+T-A
+H
+J
+K
+M
+O
+P
+1
+2
+Horarios:
+4:30 a. m. – 11:00 p. m.
+* Los últimos trenes salen de Niquía y La Estrella a las 10:40 p.m.
+Domingos y festivos
+A
+B
+T-A
+O
+1
+2
+Horarios:
+5:00 a. m. – 10:00 p. m.
+K
+Horarios:
+8:30 a. m. – 10:00 p. m.
+H
+J
+M
+P
+Horarios:
+9:00 a. m. – 10:00 p. m.
+* Los últimos trenes salen de Niquía y La Estrella a las 10:00 p.m.
+Horarios del Metrocable Santo Domingo - Arví
+El Metro de Medellín presta servicio en los siguientes horarios:
+Lunes y miércoles a sábado
+L
+Horarios:
+9:00 a. m. – 6:00 p. m.
+Domingos y festivos
+L
+Horarios:
+8:30 a. m. – 6:00 p. m.
+* No presta servicio los días martes.
+Para conocer el horario en que pasa el primer y último vehículo por cada estación o parada, vaya a Sistema Integrado.
+Horarios puntos de venta (PV)
+El Metro de Medellín presta servicio en los siguientes horarios:
+Línea
+A
+B
+Horarios:
+4:30 a. m. – 11:00 p. m.
+Ver horarios
+Línea
+K
+L
+Horarios:
+4:30 a. m. – 11:00 p. m.
+Ver horarios
+Línea
+1
+Horarios:
+Varían según día y estación.
+Ver horarios
+¿A que hora sale el primer y último vehículo de cada estación?
+Si deseas saber a qué hora pasa el primer y último vehículo, accede a la página del sistema integrado, busca la línea de tu interés y luego busca el horario de la estación o parada correspondiente.
+Ir a Sistema Integrado
+Horarios para ingreso de bicicletas al Metro de Medellín
+Las bicicletas (rígidas o convencionales) y monopatines no plegables (tanto mecánicas como eléctricas o de pedaleo asistido), podrán ingresar a las Líneas, en los siguientes horarios establecidos:
+Lunes a Viernes
+A
+B
+H
+J
+K
+M
+P
+Horarios:
+10:00 a.m. a 12 m. y de 08:00 p.m. a 11:00 p.m.
+Sábados
+A
+B
+H
+J
+K
+M
+P
+Horarios:
+09:00 a.m. a 11:00 a.m. y de 04:00 p.m. a 11:00 p.m.
+Domingos y Festivos
+A
+B
+H
+J
+K
+M
+P
+Horarios:
+Durante toda la operación comercial.
+Otras líneas
+1
+2
+O
+T-A
+L
+Horarios:
+Solo se permite el ingreso de bicicletas y/o monopatines plegables.
+* Las bicicletas y monopatines plegables (tanto mecánicas como eléctricas o de pedaleo asistido), siempre y cuando se encuentren plegadas, podrán ingresar a cualquiera de las Líneas de la Red Metro, durante todo el horario de servicio comercial.
+* Consulta aquí las Condiciones de uso de la funcionalidad Bici.
+Reglamentos del usuario en el Metro de Medellín
+Encuentra en está sección toda la información necesaria para el uso de nuestro sistema de transporte masivo.
+Reglamento del usuario
+Condiciones de uso de la funcionalidad Bici

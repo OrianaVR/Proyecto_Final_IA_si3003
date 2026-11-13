@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "copiloto-movilidad-eafit"
+version = "0.1.0"
+description = "Bloque de datos reales y base del proyecto de movilidad"
+requires-python = ">=3.10"
+dependencies = ["beautifulsoup4>=4.12,<5", "pypdf>=5,<7", "numpy>=1.26,<3"]
+
+[project.optional-dependencies]
+embeddings = ["sentence-transformers>=3.0,<6"]
+
+[tool.setuptools.packages.find]
+include = ["src*", "scripts*"]

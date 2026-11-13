@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<title>Copiloto de movilidad de Medellín – Informe</title>
+<style>
+@page { size: A4; margin: 1.5cm 1.7cm; }
+body { font-family: "Segoe UI", Arial, sans-serif; font-size: 9.4pt; line-height: 1.3; color: #111; }
+h1 { font-size: 15pt; margin: 0 0 2px; } h2 { font-size: 11pt; margin: 9px 0 3px; border-bottom: 1px solid #999; }
+.sub { color: #444; font-size: 8.8pt; margin-bottom: 4px; }
+p { margin: 3px 0; text-align: justify; } ul { margin: 2px 0 2px 16px; padding: 0; } li { margin: 1px 0; }
+table { border-collapse: collapse; width: 100%; margin: 4px 0; font-size: 8.4pt; }
+th, td { border: 1px solid #999; padding: 1.5px 4px; text-align: right; } th { background: #e8edf3; }
+td:first-child, th:first-child { text-align: left; } td.l { text-align: left; }
+.aviso { border: 1px solid #999; background: #f5f5f5; padding: 3px 6px; font-size: 8.6pt; margin: 4px 0; }
+</style></head><body>
+
+<h1>Copiloto de movilidad de Medellín: A*, RAG y dashboard</h1>
+<div class="sub">SI3003 Inteligencia Artificial, EAFIT 2026-1 · Isabella, Wendy, Oriana y Ana · Repositorio: github.com/OrianaVR/Proyecto_Final_IA_si3003</div>
+<div class="aviso"><b>Aviso:</b> herramienta académica. Las rutas se calculan solo por distancia y el asistente puede equivocarse; no constituye consejo de movilidad, seguridad, legal ni médico. Verifique la información oficial del Metro de Medellín.</div>
+
+<h2>1. Problema y alcance</h2>
+<p>Elegir cómo moverse en el centro de Medellín exige combinar la red vial con reglas y condiciones del Metro que están en documentos dispersos. Se construyó un copiloto con (i) búsqueda de rutas de menor distancia con A* y Dijkstra implementados por el equipo sobre una red vial real, (ii) un agente LLM con RAG sobre documentos oficiales del Metro y herramientas que calculan rutas, y (iii) un dashboard Streamlit. El alcance es deliberadamente pequeño: una sola zona, costo igual a la distancia en metros, sin tráfico en tiempo real, tiempos de viaje, tarifas ni emisiones.</p>
+
+<h2>2. Datos</h2>
+<p><b>Red vial.</b> OpenStreetMap (API de mapas), bounding box -75.574, 6.247, -75.566, 6.255. Se conserva el archivo OSM original con su URL, fecha y SHA-256. Tras filtrar vías para un modelo simplificado de automóvil, respetar sentidos únicos y rotondas y eliminar autociclos, el grafo dirigido tiene <b>696 nodos y 858 aristas</b>; el costo de cada arista es la distancia haversine en metros (media 18.96 m, porque se conservan nodos de geometría). Se verificaron identificadores, extremos, coordenadas y costos finitos no negativos, y se eligieron 10 pares origen-destino alcanzables para la evaluación. El EDA halló dos componentes débilmente conexas (694 y 2 nodos) y 14 nodos sin salidas; se conservaron como limitaciones sin inventar conexiones. Datos © colaboradores de OpenStreetMap, ODbL.</p>
+<p><b>Corpus.</b> Tres PDF oficiales del Metro (reglamento del usuario, condiciones de la funcionalidad Bici, normas de convivencia con la bicicleta) y la página de usuarios, con 9 287 palabras y 23 registros por página; se guardan URL, fecha de captura y hash (<code>corpus/sources.csv</code>). Algunos documentos son históricos y pueden contradecirse entre sí (p. ej. horarios de bicicletas de 2015 frente a la funcionalidad Bici).</p>
+
+<h2>3. Parte 1: búsqueda de rutas (A* frente a Dijkstra)</h2>
+<p>Dijkstra (búsqueda de costo uniforme) es la línea base; A* usa f(n) = g(n) + h(n) con h la distancia haversine al destino. Ambos usan cola de prioridad propia (<code>heapq</code>), sin NetworkX ni OSMnx. h no sobreestima el costo restante, pues cualquier camino por el grafo mide al menos la distancia geodésica entre sus extremos, y es consistente por la desigualdad triangular, dado que el costo de cada arista es su distancia haversine. Se cuenta como <i>nodo expandido</i> el que se extrae de la cola y cuyas aristas salientes se examinan, sin contar inserciones ni entradas obsoletas. Se evaluó en los 10 pares fijos de <code>data/test_pairs.json</code> (resultados en <code>results/routes.csv</code>); en los 10 pares ambos algoritmos devolvieron distancia y camino idénticos.</p>
+<table><tr><th>Par</th><th>Distancia (m)</th><th>Expand. Dijkstra</th><th>Expand. A*</th><th>Reducción A*</th><th>ms Dijkstra</th><th>ms A*</th></tr><tr><td>pair_01</td><td>1,069.8</td><td>277</td><td>115</td><td>58.5 %</td><td>0.55</td><td>0.28</td></tr><tr><td>pair_02</td><td>1,076.1</td><td>452</td><td>176</td><td>61.1 %</td><td>0.77</td><td>1.06</td></tr><tr><td>pair_03</td><td>1,105.5</td><td>371</td><td>262</td><td>29.4 %</td><td>0.73</td><td>0.88</td></tr><tr><td>pair_04</td><td>1,556.5</td><td>587</td><td>307</td><td>47.7 %</td><td>1.66</td><td>1.33</td></tr><tr><td>pair_05</td><td>1,014.1</td><td>320</td><td>225</td><td>29.7 %</td><td>0.80</td><td>1.12</td></tr><tr><td>pair_06</td><td>1,500.8</td><td>537</td><td>381</td><td>29.1 %</td><td>1.10</td><td>0.77</td></tr><tr><td>pair_07</td><td>411.9</td><td>84</td><td>35</td><td>58.3 %</td><td>0.10</td><td>0.07</td></tr><tr><td>pair_08</td><td>1,336.3</td><td>564</td><td>366</td><td>35.1 %</td><td>1.03</td><td>1.19</td></tr><tr><td>pair_09</td><td>626.0</td><td>109</td><td>78</td><td>28.4 %</td><td>0.24</td><td>0.29</td></tr><tr><td>pair_10</td><td>1,308.8</td><td>451</td><td>171</td><td>62.1 %</td><td>0.75</td><td>0.35</td></tr></table>
+<p><b>Resultado.</b> A* redujo los nodos expandidos en todos los pares, entre 28.4 % y 62.1 % (media 43.9 %). En <b>tiempo no hay ventaja demostrada</b>: A* fue más rápido en 5 de 10 pares y la media es 0.73 ms (A*) frente a 0.77 ms (Dijkstra), diferencia dentro del ruido de una sola corrida en un grafo tan pequeño. La conclusión sólida es la reducción del espacio de búsqueda, no la velocidad medida.</p>
+
+<h2>4. Parte 2: agente LLM con RAG</h2>
+<p><b>Diseño.</b> <code>ask(message, history)</code> ejecuta un ciclo de <i>tool calling</i> de máximo 5 llamadas al modelo por pregunta y devuelve <code>answer</code>, <code>sources</code> (título, URL, página, fragmento) y <code>tool_trace</code>; los errores de herramientas vuelven al modelo como observación y los del proveedor se comunican sin lanzar excepciones. Cuatro herramientas calculan resultados reales: <code>plan_route</code> y <code>get_route_metrics</code> (envuelven A* y Dijkstra propios), <code>find_nodes</code> (nombres de calle a ids de nodo) y <code>search_documents</code> (recuperación sobre el índice). Se usó un LLM compatible con la API de chat completions (Groq, modelo <code>openai/gpt-oss-120b</code>).</p>
+<p><b>RAG.</b> El corpus se divide en 97 fragmentos de 140 palabras con 40 de solapamiento, que conservan título, URL y página. El índice incluido usa el backend <b>léxico <code>hashing</code> (TF-IDF, 4096 dimensiones), no embeddings semánticos</b>; la búsqueda es por similitud coseno con un umbral mínimo. Cada fragmento recibe un identificador (S1, S2…) y <code>ask()</code> devuelve solo las fuentes realmente citadas; si los pasajes no respaldan una respuesta, el prompt exige decirlo.</p>
+<p><b>Evaluación.</b> 12 preguntas fijas (<code>tests/agent_questions.json</code>): 4 de rutas, 3 documentales con cita, 2 que encadenan ruta y métricas y 3 de error o información ausente. Los criterios no aplicables no cuentan como aciertos (<code>results/agent_eval.csv</code>, <code>agent_eval_summary.json</code>).</p>
+<table><tr><th>Criterio (automático)</th><th>Aciertos / aplicables</th></tr>
+<tr><td>Herramienta esperada llamada</td><td>9 / 10</td></tr>
+<tr><td>Cita de un documento esperado</td><td>3 / 3</td></tr>
+<tr><td>Cifras coinciden con las de la herramienta</td><td>3 / 6</td></tr>
+<tr><td>Error de herramienta cuando se esperaba</td><td>1 / 1</td></tr>
+<tr><td><b>Preguntas acertadas (automático)</b></td><td><b>6 / 9</b></td></tr>
+<tr><td>Revisión manual (nodo inexistente, tarifa de Bogotá, tráfico en tiempo real)</td><td>3 / 3 cumplen el criterio escrito</td></tr></table>
+<p><b>Lectura de los fallos.</b> En q01 y q03 el agente dio la distancia correcta (1 069.82 m y 1 336,34 m, iguales a las esperadas) pero con espacio como separador de miles o coma decimal, formatos que el verificador automático no reconoce; son fallos del verificador y no se corrigieron en el CSV para no alterar el resultado medido. El fallo real es q08: dio los nodos expandidos correctos (307 frente a 587) pero no llamó a <code>plan_route</code>. Con una sola corrida y 12 preguntas, estas tasas son indicativas, no estadísticamente concluyentes. En las tres preguntas de error o ausencia el agente no inventó distancias, tarifas ni minutos.</p>
+
+<h2>5. Interfaz y reproducción</h2>
+<p>El dashboard (<code>app.py</code>, Streamlit, una pantalla) permite elegir un par de prueba o nodos libres y el algoritmo (A*, Dijkstra o ambos); muestra el mapa de la ruta (folium sobre OpenStreetMap), la tabla de distancia, nodos expandidos y tiempo, un gráfico comparativo del par elegido y el resumen de los 10 pares, y un chat con el agente que muestra las fuentes citadas y la traza de herramientas. Los errores (nodo inválido, sin ruta, clave ausente, proveedor caído) se muestran con mensajes comprensibles y el resto de la aplicación sigue funcionando. Para reproducir: <code>python -m venv .venv</code>, <code>pip install -r requirements.txt</code>, copiar <code>.env.example</code> a <code>.env</code> con <code>LLM_API_KEY</code>, <code>LLM_BASE_URL</code> y <code>LLM_MODEL</code>, y <code>streamlit run app.py</code>; datos, corpus e índice vienen incluidos. La integración se verificó con <code>scripts/check_contracts.py</code> y 68 pruebas automáticas (detalle en <code>docs/verificacion_final.md</code>).</p>
+
+<h2>6. Limitaciones</h2>
+<ul>
+<li>Una zona pequeña y costo solo por distancia; sin tráfico, tiempos, tarifas, giros prohibidos ni restricciones condicionales. No es navegación operativa.</li>
+<li>El corpus son 4 documentos, parcialmente históricos; el índice es léxico. El modelo puede resumir mal horarios o reglas: verifique la fuente citada.</li>
+<li>Los documentos del Metro no se conectan al grafo vial: el agente no ubica estaciones ni calcula recorridos del Metro.</li>
+<li>Evaluación del agente: una corrida, 12 preguntas, un solo modelo; los tiempos de ejecución de las rutas son de una sola medición.</li>
+<li>La capa gratuita del proveedor limita los tokens por minuto, lo que puede producir errores temporales en el chat.</li>
+</ul>
+
+<h2>7. Uso de IA generativa</h2>
+<p>Cada integrante declara las herramientas y el propósito en <code>DECLARACION_IA.md</code>. Ana usó Claude Code (Claude Sonnet 5.5) para integrar, depurar y documentar; Wendy declaró el uso de Gemini en su bloque. Isabella declaró el uso de ChatGPT con Codex y Oriana el de Claude (chat) para el agente y el RAG.</p>
+
+</body></html>

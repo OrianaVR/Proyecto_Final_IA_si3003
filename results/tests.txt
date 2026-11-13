@@ -1,0 +1,18 @@
+test_all_ten_pairs_are_directed_reachable_and_deterministic (test_data.DatasetIntegrationTests.test_all_ten_pairs_are_directed_reachable_and_deterministic) ... ok
+test_included_snapshot_loads_without_network (test_data.DatasetIntegrationTests.test_included_snapshot_loads_without_network) ... ok
+test_missing_dataset_produces_actionable_error (test_data.DatasetIntegrationTests.test_missing_dataset_produces_actionable_error) ... ok
+test_rebuild_matches_shipped_data_with_numeric_tolerance (test_data.DatasetIntegrationTests.test_rebuild_matches_shipped_data_with_numeric_tolerance) ... ok
+test_repository_roundtrip_and_duplicate_node_detection (test_data.DatasetIntegrationTests.test_repository_roundtrip_and_duplicate_node_detection) ... ok
+test_tampered_raw_data_is_rejected_before_processing (test_data.DatasetIntegrationTests.test_tampered_raw_data_is_rejected_before_processing) ... ok
+test_duplicate_edge_id_is_rejected (test_data.DomainTests.test_duplicate_edge_id_is_rejected) ... ok
+test_haversine_known_distance_and_symmetry (test_data.DomainTests.test_haversine_known_distance_and_symmetry) ... ok
+test_invalid_coordinates_and_distances_are_rejected (test_data.DomainTests.test_invalid_coordinates_and_distances_are_rejected) ... ok
+test_missing_endpoint_is_rejected (test_data.DomainTests.test_missing_endpoint_is_rejected) ... ok
+test_access_specificity_and_unsupported_ways (test_data.OsmTests.test_access_specificity_and_unsupported_ways) ... ok
+test_direction_rules (test_data.OsmTests.test_direction_rules) ... ok
+test_xml_parser_preserves_direction_and_clips_bbox (test_data.OsmTests.test_xml_parser_preserves_direction_and_clips_bbox) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.167s
+
+OK

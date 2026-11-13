@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://api.openstreetmap.org/api/0.6/map?bbox=-75.574,6.247,-75.566,6.255",
+    "retrieved_at_utc": "2026-11-12T03:38:08.721025+00:00",
+    "sha256": "cc4aa490ec71fb9b9c4e339beff86a4440949efe90854a615bf62cf3d4287a60",
+    "size_bytes": 1465618,
+    "bbox_wsen": [
+      -75.574,
+      6.247,
+      -75.566,
+      6.255
+    ],
+    "name": "OpenStreetMap contributors",
+    "license": "ODbL 1.0",
+    "attribution_url": "https://www.openstreetmap.org/copyright"
+  },
+  "bbox_wsen": [
+    -75.574,
+    6.247,
+    -75.566,
+    6.255
+  ],
+  "mode": "motor_vehicle_simplified",
+  "distance_method": "haversine_segments",
+  "earth_radius_m": 6371008.8,
+  "raw_nodes": 5292,
+  "raw_ways": 889,
+  "eligible_ways": 160,
+  "node_count": 696,
+  "edge_count": 858,
+  "limitations": [
+    "No incluye restricciones de giro, tráfico, horarios ni tarifas.",
+    "Grafo recortado a bbox: no garantiza óptimo fuera del extracto.",
+    "Acceso condicional, barreras y restricciones por vehículo no modelados.",
+    "Las rutas son experimentales; no son indicaciones de navegación."
+  ]
+}
