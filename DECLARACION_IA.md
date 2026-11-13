@@ -72,11 +72,28 @@ Como estudiante responsable del bloque, verifiqué personalmente todo el código
 
 ## 3. Oriana: agente y RAG
 
-> **PENDIENTE.** Oriana debe aportar `docs/ia_oriana.md` (herramienta(s) de IA usada(s) para el agente, el RAG y la
-> evaluación, propósito, qué verificó personalmente). Al momento de cerrar este documento no existe en ninguna rama.
->
-> Nota factual para su sección: el agente usa un modelo de lenguaje en tiempo de ejecución como parte del producto
-> (ver `docs/03_agente.md` y `docs/verificacion_final.md`); eso es distinto de las herramientas de IA usadas para escribir el código.
+**Herramienta:** Claude (Anthropic), en la aplicación de chat claude.ai.
+
+**Propósito:** apoyo para diseñar y escribir el borrador del Bloque 3: agente con *tool calling*, RAG local, herramientas, pruebas, scripts de evaluación y documentación.
+
+**Qué generó la herramienta:**
+
+- Borradores de `src/agent/rag.py`, `src/agent/tools.py`, `src/agent/llm.py`, `src/agent/agent.py`.
+- Borradores de `scripts/agent/build_index.py`, `scripts/agent/demo_tools.py`, `scripts/agent/ask_cli.py`, `scripts/agent/run_agent_eval.py`.
+- Borradores de `tests/test_rag.py`, `tests/test_tools.py`, `tests/test_agent.py`, `tests/test_agent_eval.py` y `tests/agent_questions.json`.
+- Borradores de `docs/03_agente.md` y de esta declaración, y los cambios a `README.md`, `requirements.txt`, `pyproject.toml` y `.env.example`.
+
+**Qué hice yo:**
+
+[COMPLETAR (Oriana): qué revisaste, qué ejecutaste, qué cambiaste, qué decidiste (proveedor LLM, modelo, backend de embeddings), cómo verificaste que las herramientas y las citas funcionan, y cómo calificaste a mano las 3 preguntas pendientes.]
+
+**Qué verifiqué:**
+
+[COMPLETAR (Oriana): pruebas ejecutadas (`python -m unittest discover -s tests -v`), evaluación con el modelo real (`python -m scripts.agent.run_agent_eval`) y revisión de los resultados.]
+
+**Límites:** la herramienta no tuvo acceso al proveedor LLM real ni a los modelos de embeddings durante la redacción: las pruebas automáticas usan un modelo simulado y el índice de prueba usa el respaldo léxico.
+
+> Nota de Ana: la evaluación con el modelo real (`openai/gpt-oss-120b`, Groq, índice `hashing`) la ejecuté yo, y la revisión manual de q10, q11 y q12 la hice yo (ver sección 4 y `docs/verificacion_final.md`). Oriana debe ajustar su texto si lo que declara difiere de esto.
 
 ## 4. Ana: aplicación, integración y entrega
 
