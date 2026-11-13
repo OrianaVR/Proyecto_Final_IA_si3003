@@ -122,4 +122,4 @@ Declarado en [`DECLARACION_IA.md`](DECLARACION_IA.md).
 
 ## Equipo
 
-Isabella (datos y corpus) · Wendy (algoritmos) · Oriana (agente y RAG) · Ana (aplicación, integración y entrega).
+Isabella (datos y corpus) · Wendy (algoritmos) · Oriana (agente y RAG) · Ana (aplicación, integración y entrega)...
