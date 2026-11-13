@@ -8,6 +8,31 @@ generativa que usó y para qué, conforme al pacto pedagógico. Cada declaració
 > **PENDIENTE.** Isabella debe aportar `docs/ia_isabella.md` (herramienta(s) de IA usada(s), propósito, qué
 > verificó personalmente). Al momento de cerrar este documento no existe en ninguna rama del repositorio.
 
+
+## 1. Isabella: datos y corpus
+
+**Herramienta:** ChatGPT con Codex, como asistente de explicación, programación y documentación.
+
+**Para qué lo usé:**
+
+- Recibir explicaciones sobre la organización del proyecto, la representación de la red vial mediante nodos y aristas y la separación entre datos geográficos y corpus documental.
+- Apoyar la generación y organización del código para descargar, preparar y cargar los datos de OpenStreetMap, así como extraer el texto de los documentos oficiales del Metro.
+- Preparar pruebas automatizadas y comprender sus resultados.
+- Diagnosticar una diferencia de precisión numérica entre entornos que hacía fallar la comparación de archivos reconstruidos y ajustar la prueba para comparar las distancias con una tolerancia.
+- Elaborar borradores del README, la descripción de los datos, las fuentes y las limitaciones.
+- Recibir orientación para configurar el entorno virtual y utilizar Git y GitHub.
+
+**Qué verifiqué personalmente:**
+
+- Creé el entorno virtual e instalé las dependencias en mi Mac.
+- Ejecuté `python -m scripts.demo_data` y comprobé la carga de **696 nodos y 858 aristas dirigidas**.
+- Ejecuté `python -m scripts.validate` y confirmé el resultado **`status: ok`**, con **10 pares de prueba y 4 documentos**.
+- Ejecuté los comandos de preparación de datos, extracción del corpus y análisis descriptivo, comprobando que finalizaran correctamente y produjeran **23 registros documentales y 9.287 palabras extraídas**.
+- Volví a ejecutar la suite después del ajuste de precisión y confirmé que las **13 pruebas finalizaran con `OK`**.
+
+**Fuentes y límites:** los datos geográficos proceden de OpenStreetMap y los documentos del sitio oficial del Metro de Medellín; no fueron inventados por la herramienta. Las verificaciones realizadas comprueban la carga, integridad y reproducción de los datos, pero no garantizan la exactitud de todas las vías ni la vigencia de todas las disposiciones documentales. El código y los textos generados con asistencia de IA requieren revisión y comprensión; las pruebas de este componente no evalúan los algoritmos de rutas, el agente ni la interfaz.
+
+
 ## 2. Wendy: algoritmos de enrutamiento
 
 (Transcrito de `docs/ia_wendy.md`, escrito por Wendy.)
