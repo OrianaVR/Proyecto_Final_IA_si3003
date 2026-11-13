@@ -83,6 +83,14 @@ error de herramienta 1/1; 3 preguntas quedan pendientes de revisión manual.
   SHA-256 dejaba de coincidir con `.source.json` (con LF coincide). Se añadió `.gitattributes` (`data/raw/* -text`,
   `corpus/** -text`) para que no se convierta. Afecta a cualquier revisor en Windows.
 - `pytest` no está en `requirements.txt`; las pruebas corren con `unittest`.
+- **Hallazgo 7 (corregido)**: al clonar `feature/ana` desde GitHub en un venv nuevo, 1 de las 68 pruebas fallaba
+  ("Texto extraído alterado: metro_reglamento"). Causa: los 4 `text_sha256` de `corpus/manifest.json` estaban
+  calculados sobre la versión CRLF de `corpus/text/*.txt` (generados en Windows), pero Git los guarda con LF; en
+  cualquier clon nuevo (y en Linux/macOS aun antes del `.gitattributes`) el hash no coincidía. Se actualizaron esos
+  4 hashes al contenido LF (los textos no cambiaron; solo se corrigió el registro) y se mantiene `corpus/** -text`.
+  Tras el cambio: 68 pruebas OK y `rag.load_index()` carga y busca con normalidad.
+- Prueba con clon de GitHub (sin `.env`): contratos OK, la app calcula rutas sin excepciones y el chat responde que
+  falta configurar `LLM_API_KEY` en vez de fallar.
 
 ## Prueba de punta a punta (instalación limpia)
 
