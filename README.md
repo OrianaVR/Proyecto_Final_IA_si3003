@@ -1,6 +1,6 @@
 # Copiloto de movilidad de Medellín
 
-Proyecto final de **SI3003 – Inteligencia Artificial** (EAFIT, 2026-1). Un copiloto de movilidad para un extracto
+Proyecto final de **SI3003 – Inteligencia Artificial** (EAFIT, 2026-2). Un copiloto de movilidad para un extracto
 pequeño del centro de Medellín:
 
 - **Parte 1 (técnica clásica):** rutas de menor distancia con **A\*** y **Dijkstra** implementados por el equipo
