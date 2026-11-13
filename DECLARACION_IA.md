@@ -85,11 +85,13 @@ Como estudiante responsable del bloque, verifiqué personalmente todo el código
 
 **Qué hice yo:**
 
-[COMPLETAR (Oriana): qué revisaste, qué ejecutaste, qué cambiaste, qué decidiste (proveedor LLM, modelo, backend de embeddings), cómo verificaste que las herramientas y las citas funcionan, y cómo calificaste a mano las 3 preguntas pendientes.]
+Entregó al repositorio el agente y el RAG (commit "agent" en `feature/ori`): `src/agent/`, `scripts/agent/`, las pruebas de agente y RAG, las 12 preguntas de evaluación (`tests/agent_questions.json`) y `docs/03_agente.md`. Las decisiones de diseño documentadas en `docs/03_agente.md` constan a su nombre: ciclo de *tool calling* con tope de 5 llamadas al modelo, cuatro herramientas (`plan_route`, `get_route_metrics`, `find_nodes`, `search_documents`), fragmentos de 140 palabras con 40 de solapamiento, citas S1, S2... y proveedor LLM configurable por `.env`.
 
 **Qué verifiqué:**
 
-[COMPLETAR (Oriana): pruebas ejecutadas (`python -m unittest discover -s tests -v`), evaluación con el modelo real (`python -m scripts.agent.run_agent_eval`) y revisión de los resultados.]
+Constan en el repositorio las pruebas automáticas del agente y el RAG con un modelo simulado (`tests/test_agent.py`, `tests/test_rag.py`, `tests/test_tools.py`, `tests/test_agent_eval.py`); con el proyecto integrado, `python -m unittest discover -s tests -t .` pasa las 68 pruebas (ver `docs/verificacion_final.md`). La evaluación con el modelo real no la ejecutó ella: la corrió Ana (ver nota abajo).
+
+> **Texto redactado por Ana a partir de las evidencias del repositorio, no por Oriana. Oriana debe confirmarlo o corregirlo con lo que ella hizo realmente (qué ejecutó, cómo revisó herramientas y citas) antes de la entrega.**
 
 **Límites:** la herramienta no tuvo acceso al proveedor LLM real ni a los modelos de embeddings durante la redacción: las pruebas automáticas usan un modelo simulado y el índice de prueba usa el respaldo léxico.
 
