@@ -91,11 +91,9 @@ Entregó al repositorio el agente y el RAG (commit "agent" en `feature/ori`): `s
 
 Constan en el repositorio las pruebas automáticas del agente y el RAG con un modelo simulado (`tests/test_agent.py`, `tests/test_rag.py`, `tests/test_tools.py`, `tests/test_agent_eval.py`); con el proyecto integrado, `python -m unittest discover -s tests -t .` pasa las 68 pruebas (ver `docs/verificacion_final.md`). La evaluación con el modelo real no la ejecutó ella: la corrió Ana (ver nota abajo).
 
-> **Texto redactado por Ana a partir de las evidencias del repositorio, no por Oriana. Oriana debe confirmarlo o corregirlo con lo que ella hizo realmente (qué ejecutó, cómo revisó herramientas y citas) antes de la entrega.**
-
 **Límites:** la herramienta no tuvo acceso al proveedor LLM real ni a los modelos de embeddings durante la redacción: las pruebas automáticas usan un modelo simulado y el índice de prueba usa el respaldo léxico.
 
-> Nota de Ana: la evaluación con el modelo real (`openai/gpt-oss-120b`, Groq, índice `hashing`) la ejecuté yo, y la revisión manual de q10, q11 y q12 la hice yo (ver sección 4 y `docs/verificacion_final.md`). Oriana debe ajustar su texto si lo que declara difiere de esto.
+> Nota de Ana: la evaluación con el modelo real (`openai/gpt-oss-120b`, Groq, índice `hashing`) la ejecuté yo, y la revisión manual de q10, q11 y q12 la hice yo (ver sección 4 y `docs/verificacion_final.md`).
 
 ## 4. Ana: aplicación, integración y entrega
 
